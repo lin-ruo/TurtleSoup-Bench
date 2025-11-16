@@ -1,0 +1,777 @@
+[
+    {
+        "title": "Three Brothers",
+        "surface": "There were three brothers. The eldest and the second were twins. The eldest died in a car accident, leaving the second brother and the youngest brother. One day, the youngest brother walked into the second brother's room, saw him looking in the mirror, and killed him. Why?",
+        "bottom": "The three brothers loved each other very much. After the eldest brother's accidental death, the remaining second and youngest brothers were very sad. That day, the youngest brother entered the second brother's room and saw him in front of the mirror. He suddenly had a flash of inspiration and thought of a way to have two older brothers again. So, the youngest brother took a saw and cut the second brother in half, so he would have two older brothers again.",
+        "tips": [
+            "The three brothers had a very good relationship.",
+            "The eldest brother's death was an accident.",
+            "The eldest and second brothers looked identical.",
+            "The mirror played a key role in the second brother's death.",
+            "The youngest brother deeply missed his deceased older brother.",
+            "The youngest brother's motive for killing the second brother was related to the number of brothers.",
+            "The youngest brother believed that killing the second brother could fulfill a certain wish."
+        ]
+    },
+    {
+        "title": "The Note",
+        "surface": "A girl came home to find her mother dead and her father looking haggard. In a pool of blood nearby were several torn pieces of a note. The girl found the torn pieces, which read 'Daughter, run, Dad, is crazy'.",
+        "bottom": "The daughter has mental problems. She was the one who killed her mother. The note was written by the mother but was torn up, so the words were out of order. The correct reading is 'Dad, run, daughter is crazy'.",
+        "tips": [
+            "The note was torn into pieces.",
+            "The order of the words on the note can be rearranged.",
+            "The daughter's mental state is the key.",
+            "The author of the note is not the daughter.",
+            "The intended recipient of the note's warning needs to be re-evaluated.",
+            "There is another reason for the father's haggard appearance.",
+            "The act of tearing the note has a meaning."
+        ]
+    },
+    {
+        "title": "The Bride's Sister",
+        "surface": "At the wedding, the mother-in-law said something to the groom, and he immediately broke down and called off the wedding. What did she say?",
+        "bottom": "The bride had claimed to have a twin sister. In reality, the bride has multiple personality disorder. The main personality is irritable, while the other is gentle. The groom was in love with the gentle personality. The mother-in-law said to the groom, 'I only have one precious daughter, you must treat her well.' The groom then realized the bride had dissociative identity disorder.",
+        "tips": [
+            "The bride does not have a twin sister.",
+            "The bride has two personalities.",
+            "The mother-in-law only mentioned one daughter.",
+            "The mother-in-law's words are the key piece of information.",
+            "The groom loves the other side of the bride.",
+            "The bride's mental state is unusual.",
+            "The number of daughters does not match the groom's understanding."
+        ]
+    },
+    {
+        "title": "The Nanny",
+        "surface": "Lately, the nanny has been slacking off, and the house is a mess. I went to the living room to complain to my father, but he said, 'We don't have a nanny.' I went back to my bedroom to question the nanny, but she said, 'Your father passed away a year ago. Today is the anniversary of his death.' Who should I believe? I ran out of the house and bumped into our neighbor, Mrs. Zhang. What she said made me completely break down. Please deduce.",
+        "bottom": "After my father passed away, I missed him so much that I often imagined scenes of him being alive. Over time, unable to distinguish fantasy from reality, I developed multiple personalities. Lacking care, I imagined a nanny to take care of my daily life. That day, the neighbor Mrs. Zhang said, 'There have been burglaries in the neighborhood recently. You're all alone, so be careful.'",
+        "tips": [
+            "'My' father has indeed passed away.",
+            "The 'nanny' is not a real person.",
+            "The 'nanny' is a figment of 'my' imagination.",
+            "'I' suffer from a mental illness.",
+            "'I' started having fantasies due to excessive grief over my father.",
+            "'I' imagined the nanny to be taken care of.",
+            "The neighbor Mrs. Zhang's words confirmed that 'I' live alone.",
+            "Mrs. Zhang was warning about being careful and preventing theft.",
+            "'I' am unable to distinguish reality from fantasy."
+        ]
+    },
+    {
+        "title": "Good 'Brothers'",
+        "surface": "She had liked the man for a long time. One day, she finally gathered the courage to confess to him, but the man said something to her... and she instantly broke down.",
+        "bottom": "They had been good 'brothers' since childhood, but 'he' always had different feelings for the man. He wanted to be with him, so he underwent gender reassignment surgery. As 'she', she stood before the man and confessed her love. The man looked at her and said, 'I liked the you from before.'",
+        "tips": [
+            "The 'she' who confessed was originally male.",
+            "'She' and the person she confessed to grew up together.",
+            "'She' and the person she confessed to were very close.",
+            "'She' underwent gender reassignment surgery.",
+            "The man's words that made 'her' break down were related to 'her' past gender.",
+            "The man said he liked the person 'she' was before the surgery.",
+            "The complexity of this relationship stems from a change in gender identity.",
+            "The man did not reciprocate 'her' current feelings.",
+            "'Her' transformation was for the sake of love."
+        ]
+    },
+    {
+        "title": "The Imaginary Brother",
+        "surface": "When I opened the door, I found my brother was gone and my mother was dead.",
+        "bottom": "I have an imaginary friend disorder. My brother was a figment of my imagination. He was always in my world, I loved him, and he loved me. We grew up together. One day, my mother had a heart attack. I was very anxious and told my brother to get her medicine. Seeing him rush off, I went downstairs to call an ambulance. When I returned, I found my mother was already dead, and my brother was gone.",
+        "tips": [
+            "'I' suffer from an imaginary friend disorder.",
+            "The 'brother' is a figment of 'my' imagination.",
+            "The mother died of a heart attack.",
+            "'I' thought the 'brother' went to get medicine for the mother.",
+            "The 'brother' never really existed.",
+            "'My' mental state affected my perception of the events.",
+            "The mother's death was unrelated to whether the 'brother' got the medicine.",
+            "Only 'I' and the mother were real."
+        ]
+    },
+    {
+        "title": "Green Teeth",
+        "surface": "One day, a man was scolded by his boss for a mistake at work. The next day, the man jumped off a building to commit suicide, and his teeth were green. Please deduce.",
+        "bottom": "He was a mortician who suffered from sleepwalking and pica. He was scolded for losing a corpse. To figure out how it was lost, he marked another corpse with green paint. The next day, he found green paint on his own teeth and realized he had eaten it.",
+        "tips": [
+            "The man's profession was a mortician.",
+            "The man suffered from sleepwalking.",
+            "The man also had pica.",
+            "He was scolded by his boss for losing a corpse.",
+            "The green color came from the paint he used to mark the corpse.",
+            "He used green paint to mark the corpse for tracking purposes.",
+            "He ate part of the marked corpse while sleepwalking.",
+            "He only realized he had eaten the corpse after discovering his green teeth.",
+            "The man committed suicide because he couldn't accept that he had eaten a corpse."
+        ]
+    },
+    {
+        "title": "The Anatomy 'Teacher'",
+        "surface": "A man had liked a woman for a long time. The woman proposed a condition: if he could meet it, she would be his girlfriend. He eventually met the condition, but the woman went insane. Please deduce.",
+        "bottom": "The woman actually liked the man too, but his grades were very poor. To encourage him, she made a pact to get into the same university as him. In the end, the woman got into medical school alone, while the man failed the entrance exam. The woman went insane because she never expected the man to enter the same university as an 'anatomy teacher'—a cadaver for her dissection class.",
+        "tips": [
+            "The condition was to get into the same university.",
+            "The woman was admitted to medical school.",
+            "The man failed to get into the university.",
+            "The man entered the university in a non-student capacity.",
+            "The man's appearance was related to medicine.",
+            "The man became a specimen for the anatomy class.",
+            "The woman recognized him in class.",
+            "She lost her mind as a result."
+        ]
+    },
+    {
+        "title": "One Last Time",
+        "surface": "'This is the last time,' the man said and stuck out his tongue. Shortly after, he died, with his tongue still out.",
+        "bottom": "The man was in a casino. Every time he lost a bet, he would cut off a part of his body. 'The last time' referred to the fact that only his tongue was left to reach for the cards.",
+        "tips": [
+            "The event took place in a casino.",
+            "The man was gambling.",
+            "The price for losing a bet was losing a body part.",
+            "The man had already lost multiple body parts.",
+            "Sticking out his tongue was his way of participating in the gamble.",
+            "His tongue was the last part of his body he could use to reach the cards.",
+            "'One last time' referred to betting with his tongue.",
+            "The man died from self-mutilation."
+        ]
+    },
+    {
+        "title": "Ding",
+        "surface": "The woman stood in the bedroom, looking at the cold food in her hands, and rubbed her temples. 'My sleep has been so poor lately,' she thought. Just then, a 'ding' sound came from outside the bedroom. The woman's face suddenly changed, and she screamed loudly.",
+        "bottom": "The woman was a single mother, sleep-deprived and mentally exhausted. She had confused her baby with the food and put the baby in the microwave. (The bedroom was the nursery, and when the woman screamed, she saw the crib was empty.)",
+        "tips": [
+            "The woman was raising a child alone.",
+            "She was in a state of extreme fatigue and mental confusion.",
+            "The 'bedroom' was actually the nursery.",
+            "The 'ding' sound came from a microwave oven.",
+            "The woman mistook her child for food.",
+            "The child was put inside the microwave.",
+            "After hearing the sound, she saw the empty crib."
+        ]
+    },
+    {
+        "title": "Sailor's Fear of Fish",
+        "surface": "I used to be a sailor, but now the sight of fish makes me feel nauseous and tremble. I'm always terrified of seeing fish.",
+        "bottom": "I was once a sailor. On one voyage, for some reason, my fellow sailors died one by one. To survive, those of us who were left used the flesh of our dead comrades as bait to catch fish. Days passed, and we were finally rescued. Because seeing fish always reminds me of the scenes of using our dead comrades' flesh as bait, I feel nauseous and tremble whenever I see fish. I'm always terrified of seeing them.",
+        "tips": [
+            "'My' fear stems from a traumatic experience at sea.",
+            "Many crew members died during that experience.",
+            "To survive, 'I' and the other survivors ate fish.",
+            "The bait used for fishing was very unusual.",
+            "The bait was the corpses of their dead comrades.",
+            "Seeing fish makes him recall the experience of using his comrades' flesh to catch fish.",
+            "This experience led to psychological trauma."
+        ]
+    },
+    {
+        "title": "The Mermaid Lie",
+        "surface": "A painter received a phone call. He looked at a painting of a mermaid on his desk and suddenly burst into tears. Why?",
+        "bottom": "The painter was a single father. Because his son constantly asked for his mother, he told him that his mother was the mermaid in the painting. The young son believed it and, from a young age, said he wanted to go into the water to find his mother. Because of this, he was sent to a mental hospital. The painter received a call from the hospital, informing him that his son had committed suicide by drowning. Looking at the mermaid painting on the desk, the painter was filled with regret for not realizing his son's mental issues sooner or explaining the truth, which led to his son's suicide.",
+        "tips": [
+            "The painter has a son.",
+            "The painter's son does not have a mother.",
+            "The painter once told his son that his mother was a mermaid.",
+            "The son believed this lie.",
+            "The son developed mental health issues as a result.",
+            "The son was once sent to a mental hospital.",
+            "The phone call contained bad news about his son.",
+            "The son has passed away.",
+            "The son's cause of death was drowning.",
+            "The son drowned while trying to find his mermaid mother.",
+            "The painter is tormented by his son's death and his own lie."
+        ]
+    },
+    {
+        "title": "The Old Music Box",
+        "surface": "A boy and a girl were neighbors since childhood. For the girl's birthday, the boy gave her an old music box. Shortly after, the girl moved away.",
+        "bottom": "The boy had been pursuing the girl. For her birthday, he gave her an old music box, identical to one she had as a child. The girl was very touched and agreed to be his girlfriend. Shortly after, she accidentally dropped and broke the music box, finding a photo inside. The photo was of a dog she had as a child. After the dog died, the girl was heartbroken and placed the photo in the music box's compartment, burying it with the dog. The girl realized the boy was a creep who had dug up the grave to get the music box for her, so she moved away overnight.",
+        "tips": [
+            "This music box had special meaning for the girl.",
+            "The girl used to own an identical music box.",
+            "The old music box had been buried underground.",
+            "A photo was hidden inside the music box.",
+            "The photo was related to the girl's deceased pet dog.",
+            "The boy obtained the music box by digging up a grave.",
+            "The girl felt terrified after discovering the truth.",
+            "The girl moved away to escape the boy."
+        ]
+    },
+    {
+        "title": "Rock, Paper, Scissors",
+        "surface": "'Rock, paper, scissors. The loser dies.' He played scissors, she played paper. She cried in despair. He smiled in despair.",
+        "bottom": "He and she were a couple. During a trip, they were captured by a sadistic serial killer. To torture them, he made them play rock-paper-scissors. The loser would be slowly tortured to death, while a tie would mean both die together. Strangely, before the game, the killer gave them time to talk. So, the girl and boy agreed to both play rock and die together. The time came. One, two, three... the result was out. The killer showed a twisted, satisfied smile. It turned out the boy played scissors, and the girl played paper. Amidst the girl's desperate cries and screams, the killer slowly took out his dagger with a smile.",
+        "tips": [
+            "They were forced to play this game.",
+            "The game was enforced by a serial killer.",
+            "The rules of the game involved life and death.",
+            "The loser would be slowly tortured to death.",
+            "A tie meant both would die together.",
+            "They had agreed on a strategy before the game.",
+            "They agreed to both play rock (a tie).",
+            "In the end, both of them broke the agreement.",
+            "The boy's scissors beat the girl's paper.",
+            "The boy's 'victory' led to a worse fate for the girl.",
+            "The killer was satisfied with this outcome."
+        ]
+    },
+    {
+        "title": "The Renovation Noise",
+        "surface": "The continuous renovation noise for months kept me from sleeping, making me dazed and feeling like someone was spying on me. Yesterday it finally stopped, which was great. Today, I went out to celebrate with a friend and got drunk. My friend, half-drunk, walked me home. The elevator was broken, so we climbed the stairs. 'Huh, something feels off about your place,' my friend said. 'You're just drunk, don't worry. Lock the door well. I'm heading back.' The next day, my friend found out I was missing. Please deduce.",
+        "bottom": "I had once rejected a wealthy suitor. Unwilling to give up, he bought the apartment downstairs at a high price. The renovation noise was from him redecorating his place. The suitor stalked me daily, had people enter my apartment when I was away, and renovated his place to be an exact replica of mine, even installing the same lock. That day, he saw that my friend and I were both drunk. He sabotaged the elevator and changed the floor numbers. Because the elevator was broken, we took the wrong floor and entered his apartment. After my friend left, I was imprisoned by him when he suddenly appeared.",
+        "tips": [
+            "The renovation noise came from the apartment downstairs.",
+            "The resident downstairs was a suitor 'I' had rejected.",
+            "The downstairs apartment was renovated to be identical to 'my' home.",
+            "The locks on both apartments were also changed to be the same.",
+            "The elevator was deliberately broken.",
+            "The floor signs in the stairwell had been tampered with.",
+            "'I' and my friend went to the wrong floor.",
+            "'I' entered the suitor's apartment downstairs.",
+            "After my friend left, 'I' was imprisoned by the suitor.",
+            "Feeling something was 'off' was because it wasn't 'my' real home."
+        ]
+    },
+    {
+        "title": "The Lit Room",
+        "surface": "After seeing the lit room in that suburban villa, I was so terrified that I ran away immediately.",
+        "bottom": "During vacation, I took a part-time job cleaning for a blind man living in a remote villa. Though isolated with poor transportation, the high pay and free accommodation attracted me. After moving in, I constantly felt being watched. One night when I went to the bathroom, I noticed my employer's room was lit.",
+        "tips": [
+            "The house owner is blind",
+            "The protagonist's job is cleaning",
+            "The villa is in a remote location",
+            "The protagonist feels constantly watched",
+            "The lit room belongs to the blind employer"
+        ]
+    },
+    {
+        "title": "The Strange House",
+        "surface": "After living in her newly rented house for some time, the woman asked the landlord one question and went insane.",
+        "bottom": "The woman discovered a hole in the wall of her new rental. Peering through, she only saw red. After many days of curiosity, she asked the landlord about the neighbor. The landlord replied: 'There's a red-eyed patient living next door.'",
+        "tips": [
+            "There's a hole in the rental's wall",
+            "The woman spied through the hole",
+            "She only saw red through it",
+            "Landlord mentioned red-eyed neighbor",
+            "The red was the neighbor's eye"
+        ]
+    },
+    {
+        "title": "Sleepless Nights",
+        "surface": "My brother couldn't sleep well, so I devised a solution that finally worked - but when he woke up, he went insane with fear.",
+        "bottom": "Being poor, we shared a small rental without curtains. Exhausted from work, my brother couldn't sleep due to outside lights. I killed a rough-skinned man, using his skin as a window covering. The next morning when my well-rested brother saw my 'curtain', he went mad.",
+        "tips": [
+            "Brother couldn't sleep due to light",
+            "Too poor to afford curtains",
+            "Special material used for curtains",
+            "Curtains were made from human skin",
+            "Brother went mad seeing skin curtains"
+        ]
+    },
+    {
+        "title": "Noodle Soup",
+        "surface": "An older man had a wife, child, and lover who kept urging him to divorce. After refusing, one day he found both lover and child dead at home with a message on the wall. What was it?",
+        "bottom": "The man was actually gay. Since the male lover couldn't bear children, he refused to leave his wife. In revenge, the lover killed the child, placed it in his own abdomen after disemboweling himself, then wrote in blood: 'I'm pregnant with your child.'",
+        "tips": [
+            "The man had both wife and lover",
+            "Lover urged divorce but was refused",
+            "The man was homosexual",
+            "Lover killed child then himself",
+            "Wall message: 'I'm pregnant'"
+        ]
+    },
+    {
+        "title": "Doll",
+        "surface": "A man was buried in a grave with a doll and notebook containing one sentence. What was it?",
+        "bottom": "The man had preserved his deceased daughter's body as a doll. His horrified wife killed him, burying them together with the note: 'Now you can be together forever.'",
+        "tips": [
+            "The doll contained daughter's remains",
+            "The man was killed by his wife",
+            "Wife couldn't accept his actions",
+            "Note explained burial reason",
+            "Grave contained man and doll"
+        ]
+    },
+    {
+        "title": "Ceiling Fan",
+        "surface": "A girl and her roommate often pranked timid Xiao Hong. One dawn, screams woke the girl - upon opening her eyes, she was speechless, then saw words on the ceiling. What were they?",
+        "bottom": "After constant torment, Xiao Hong hanged herself from the ceiling fan. When the girl awoke, Xiao Hong's rotating corpse stared back as the fan turned. The ceiling read: 'Did I scare you this time?'",
+        "tips": [
+            "Pranks led to tragedy",
+            "Timid victim sought revenge",
+            "Fan became instrument of revenge",
+            "Horrifying sight upon waking",
+            "Ceiling bore victim's message"
+        ]
+    },
+    {
+        "title": "A Mother's Report",
+        "surface": "After a city murder, a mother reported her daughter's death a week later.",
+        "bottom": "Worried by news reports, the mother visited her working daughter only to find her murdered. Remembering the first case, she dismembered her daughter's body over a day before reporting, hoping media attention would pressure police to solve the case quickly.",
+        "tips": [
+            "Delayed report concealed secret",
+            "Dismemberment sought attention",
+            "Mother handled daughter's remains",
+            "Feared police wouldn't prioritize case",
+            "Daughter was already murdered"
+        ]
+    },
+    {
+        "title": "The Argument",
+        "surface": "After my husband told me to 'take my things and leave' during an argument, I was later arrested.",
+        "bottom": "Crying that he belonged to me too, I dismembered him and packed him in bags to take with me.",
+        "tips": [
+            "She did take her belongings",
+            "She considered husband her property",
+            "Arrest wasn't for the argument",
+            "She literally followed orders",
+            "What she took was her husband"
+        ]
+    },
+    {
+        "title": "The Funeral",
+        "surface": "Two sisters attended their mother's funeral where the younger met a handsome man. After he disappeared, she killed her sister a month later.",
+        "bottom": "Believing funerals were the only place to see him again, she created another funeral by killing her sister.",
+        "tips": [
+            "The man only appeared at funerals",
+            "Younger sister wanted to see him again",
+            "Funerals were their meeting place",
+            "Sister's death aimed to recreate meeting",
+            "She created a funeral to see him"
+        ]
+    },
+    {
+        "title": "Solving the Case",
+        "surface": "While discussing recent cases with a man who revealed nothing, I fainted in terror upon returning home.",
+        "bottom": "As a psychologist assigned to a massacre's sole survivor, my comment 'I understand your pain' made him smile strangely. Returning home, I found bloody words: 'Now you understand.'",
+        "tips": [
+            "Narrator is a psychologist",
+            "Man was massacre's 'survivor'",
+            "'Understand your pain' was key",
+            "Man smiled strangely at comment",
+            "Bloody message at home",
+            "Message made narrator 'understand'",
+            "'Survivor' was actually the killer"
+        ]
+    },
+    {
+        "title": "Daughter",
+        "surface": "'Have another boy!' she smiled, holding her daughter with a rounded belly. Happy for her, I smiled too.",
+        "bottom": "As her obstetrician, I knew her husband had wanted a son. After abusing her, she killed him, preserving his head in a doll body she carried under her clothes, whispering: 'You're my son now.'",
+        "tips": [
+            "Narrator knows her history",
+            "Her 'pregnancy' is fake",
+            "Her 'son' isn't alive",
+            "Her husband is dead",
+            "Her happiness has dark reasons"
+        ]
+    },
+    {
+        "title": "The Stuffed Doll",
+        "surface": "After an 'accident', my wife locked herself in a room until one day her wails led me to a horrifying sight.",
+        "bottom": "When I discovered my wife's infidelity and that our child wasn't mine, I staged an accident. She survived but went mad, sewing our dead baby into a rotting doll crawling with maggots that she cradled, cooing: 'Don't be scared, baby.'",
+        "tips": [
+            "Wife went mad after 'accident'",
+            "Child wasn't biologically his",
+            "'Accident' was premeditated",
+            "Room smelled of decomposition",
+            "Dead baby sewn into doll",
+            "Doll was rotting with maggots",
+            "Wife spoke to decomposing doll"
+        ]
+    },
+    {
+        "title": "Surprise for My Girlfriend",
+        "surface": "'Be my girlfriend?' 'No, you're not romantic.' 'Tonight's surprise will change your mind.' Seeing the opposite building, she gasped: 'So romantic! Yes!'",
+        "bottom": "As the building's security guard, he killed residents to control lights forming a heart shape visible from her window.",
+        "tips": [
+            "Surprise was building light display",
+            "Lights formed heart shape",
+            "Man controlled building as guard",
+            "Killed residents for light pattern",
+            "Girl unaware lights represented deaths"
+        ]
+    },
+    {
+        "title": "Her",
+        "surface": "New bruises appeared. 'I love you but we can't be together,' she said, leading me to secluded cliffs. 'No one would know if someone fell here.' When bruises reappeared, I was terrified.",
+        "bottom": "A beautiful manipulator, she faked abuse (creating bruises) to lure me into killing her husband. After enjoying our time together, new bruises signaled I would be her next victim to eliminate.",
+        "tips": [
+            "She's a beautiful manipulator",
+            "Bruises were fake evidence",
+            "She manipulated killing her husband",
+            "New bruises signaled next victim",
+            "Narrator realized he'd be next"
+        ]
+    },
+    {
+        "title": "Death Anniversary Tragedy",
+        "surface": "On my son's death anniversary, I killed three mourners.",
+        "bottom": "Before dying, my son donated three organs. At his memorial, I saw recipients abusing their gifts - tattoos covering donated skin, a chain-smoker with his lungs, and a drinker with his liver. Enraged, I killed them all.",
+        "tips": [
+            "Son died and donated organs",
+            "Victims were organ recipients",
+            "Crime occurred on death anniversary",
+            "Recipients' lifestyles angered father",
+            "Narrator felt son was disrespected"
+        ]
+    },
+    {
+        "title": "Obedient Little Sister",
+        "surface": "My sister was very obedient, neither crying nor fussing, quietly asleep. I was very happy.",
+        "bottom": "Today was my sister's birthday. Before Mom and Dad left to buy her gifts, they said that if I could look after my sister and ensure she didn't cry or fuss, they would give me the same gift. So after they left, I held my sister down in a bathtub full of water. After a while, she indeed stopped crying and fussing, quietly \"sleeping\" in the water. When Mom and Dad come back, they'll surely reward me for how obedient she was.",
+        "tips": [
+            "\"Quietly asleep\" actually means the sister is dead",
+            "I am the killer who caused my sister's death",
+            "The method of crime was holding the sister underwater",
+            "I misunderstood my parents' request",
+            "I expect a reward for my sister's \"obedience\""
+        ]
+    },
+    {
+        "title": "Piano Music",
+        "surface": "At 22:05 in the evening, I passed by the piano room and heard slightly awkward piano music. The next morning, other scholars found him dead in the piano room. The time of death was 10 PM that night.",
+        "bottom": "The killer was a piano composer, but he didn't start learning piano from a young age. Due to talent considerations, the organization prioritized the deceased as the main candidate, while the killer composed specifically for the foreground. On this day, the killer discovered that all compositions were credited to the deceased. He went to the piano room to confront him, and in the dispute, accidentally killed the deceased. Later, hearing footsteps approaching, he hid the victim under the piano. The killer then impersonated the deceased, playing the piano. After the footsteps faded, the building was sealed and locked, so the killer stayed in the piano room all night. The next day, after people discovered the deceased and went to call the police, the killer seized the opportunity to leave the crime scene.",
+        "tips": [
+            "The awkward piano music was the killer's disguise",
+            "Murderous intent arose due to infringement of composition authorship",
+            "The killer was a composer, not a professional performer",
+            "The body was hidden and the piano played due to approaching footsteps",
+            "Escaped the scene during the commotion of calling the police"
+        ]
+    },
+    {
+        "title": "Teru Teru Bozu",
+        "surface": "She said, 'Winter is too cold.' I filled her room with heaters, and she got very angry. She said, 'I hate rain.' So I hung teru teru bozus all over her room. But why isn't she talking anymore?",
+        "bottom": "I was her admirer, constantly monitoring her. She said winter was cold, so I sneaked into her house and filled her room with heaters, which made her think it was a prank and she became very angry. She said she hated rain, and I didn't know what to do, so I killed many people, turned them into teru teru bozus, and hung them in her room. But when she saw them, she was scared to death.",
+        "tips": [
+            "I am her admirer",
+            "Heaters exposed illegal entry",
+            "Teru teru bozus were made from human bodies",
+            "The admirer's pursuit was pathological",
+            "The truth of her silence is that she was scared to death"
+        ]
+    },
+    {
+        "title": "Brunch",
+        "surface": "Xiao Ming's mother often cooked exquisite breakfast and lunch for Xiao Ming to take to school. One day, his mother slapped Xiao Ming and shouted, \"You are not my son!\" then called the police.",
+        "bottom": "There was another character named Xiao Hua. Xiao Hua was Xiao Ming's deskmate, and Xiao Ming often brought delicious brunch to school, making Xiao Hua very envious. Xiao Ming also frequently showed off to Xiao Hua, making Xiao Hua want such delicious brunch too. So one night after self-study class, Xiao Hua killed Xiao Ming. He then glued Xiao Ming's face to his own. When Xiao Ming's mother saw Xiao Hua with Xiao Ming's face, she slapped Xiao Hua and called the police.",
+        "tips": [
+            "Delicious brunch sparked envy and jealousy from a classmate",
+            "The classmate also wanted to eat such delicious brunch",
+            "Impersonated the classmate by peeling off their face",
+            "The mother saw through the disguise",
+            "The slap was the mother confirming it wasn't her son"
+        ]
+    },
+    {
+        "title": "Affectionate Couple",
+        "surface": "After Xiao Ming cheated, his wife came back to life. They both achieved their wishes. \"You two are truly affectionate.\"",
+        "bottom": "Xiao Ming cheated. To legitimize his mistress, he pretended to love his wife while secretly plotting with the mistress to kill his wife with poison and disfigure her body. Finally, the mistress underwent plastic surgery to resemble his wife and appeared by Xiao Ming's side, thus avoiding suspicion. However, his wife found out about all this. So, she turned the tables, swapped the poison, killed the mistress, and disfigured her face. Xiao Ming thought his wife died as per his and the mistress's plot, while the wife successfully killed and impersonated the mistress, surviving. Her husband genuinely loved her, from their respective perspectives, both their wishes were fulfilled.",
+        "tips": [
+            "The wife killed the mistress and impersonated her",
+            "The husband believed the original plan to kill his wife succeeded",
+            "Facial disfigurement was used for identity confusion",
+            "Both parties' wishes were achieved through mutual deception",
+            "The poison swap was the key to the plan's reversal"
+        ]
+    },
+    {
+        "title": "Porcelain",
+        "surface": "One by one, the porcelain pieces shattered, and I discovered my brother's secret.",
+        "bottom": "My brother really liked me. The patterns on the porcelain pieces resembled people I disliked. One time, I was curious and picked up a porcelain piece to look at its pattern, accidentally breaking it. Then I learned that the person it resembled had been killed. I realized that for every porcelain piece I broke, my brother killed the corresponding person. Later, I intentionally broke those porcelain pieces.",
+        "tips": [
+            "Each porcelain piece represented a specific person",
+            "Breaking a porcelain piece was a signal for my brother to kill someone",
+            "The victims were people I disliked",
+            "My brother was the killer carrying out the murders",
+            "I later intentionally broke the porcelain pieces, using him to kill others"
+        ]
+    },
+    {
+        "title": "Favorite Author",
+        "surface": "I attended my favorite author's birthday party. After the party, I returned home satisfied. When the author also returned home, I went mad.",
+        "bottom": "I am a psychopathic voyeur who loves reading horror novels. My favorite horror author writes about murders, dismemberments, and similar plots. His writing is excellent and vivid, and I love reading it. Finally, it was the author's birthday party. I gave him a pen with a hidden camera as a birthday gift, and the author accepted it. After the birthday party, the author returned home. I had been waiting at home for a long time, wanting to secretly observe the author's life through the camera. Unexpectedly, I saw a terrifying scene: the author's house was filled with human heads and limbs, a living murder scene. It turned out that the horror novels he wrote were all based on his real experiences...",
+        "tips": [
+            "The narrator gifted an item with a hidden camera",
+            "The narrator spied on the author through the camera",
+            "Real human remains were present in the author's home",
+            "The author's horror novels were based on real experiences",
+            "Witnessing the truth caused the narrator's mental breakdown"
+        ]
+    },
+    {
+        "title": "Gained Weight",
+        "surface": "I kept getting fatter, while my sister got thinner. In the end... I died.",
+        "bottom": "My sister and I were tricked and taken abroad, where they forced us into illegal activities. We refused to comply, so they beat and threatened us, even locking us in a dark room without food or water. To live another day meant another glimmer of hope, so we used every method to survive. But I didn't know how long this situation would last. In this plight, I decided my sister should survive first, so I drew my own blood for her to drink. One day, two days, three days. Because of repeated blood draws, my body's functions began to fail, and I developed edema. My sister also grew thinner day by day from lack of food. Just as I was losing consciousness, I said my last words to her: \"Eat me, and live...\"",
+        "tips": [
+            "My weight gain was actually edema caused by blood loss",
+            "Sister's thinness was due to prolonged starvation",
+            "I fed my sister my own blood",
+            "Both were imprisoned and deprived of food",
+            "Before dying, I asked my sister to eat me to survive"
+        ]
+    },
+    {
+        "title": "Black Cat's Gratitude",
+        "surface": "I killed someone. As the police took me away, I saw the black cat at the door. It was staring at me. In that moment, I knew I was wrong.",
+        "bottom": "I often saw that black cat downstairs, but due to business trips, I could only feed it. That day, returning from a business trip, I found many dead mice on my balcony. I instinctively thought of my frequently feuding neighbor, then rushed into his house. Amidst screams and police sirens, I saw the black cat. It was also looking at me, with a mouse still in its mouth.",
+        "tips": [
+            "The black cat's actions were actually an act of gratitude",
+            "The dead mice were the black cat's gift",
+            "I misunderstood the source of the mice",
+            "The misunderstanding led to a fatal attack on the neighbor",
+            "Realized the truth when I saw the black cat during the arrest"
+        ]
+    },
+    {
+        "title": "Me",
+        "surface": "Mom died, I cried. Dad died, I smiled. Grandma died, I went crazy.",
+        "bottom": "Dad often abused Mom and me, and Mom often abused me. Only Grandma loved me in this family. I couldn't stand their abuse anymore and decided to fight back. One day, Dad was on a business trip, and I seized the opportunity to kill Mom. At the mourning hall, I pretended to cry sadly, but my heart was blooming with joy. Grandma knew Mom was dead and, remembering Dad's frequent abuse of Mom, thought Dad had killed Mom. In a fit of emotion at the mourning hall, she killed Dad. I smiled. The police were also present, and seeing Grandma kill Dad, they assumed Grandma had also killed Mom and executed her. I lost the only person in the world who loved me, and I went crazy.",
+        "tips": [
+            "I killed my mother due to domestic abuse",
+            "Grandma misunderstood and killed father to avenge mother",
+            "My emotional reactions to death are based on affection and hatred",
+            "Grandma was mistakenly judged a serial killer and executed",
+            "Losing the only caregiver led to the narrator's mental breakdown"
+        ]
+    },
+    {
+        "title": "Who Killed Me",
+        "surface": "Dad starved me, Mom pricked me with needles, only my sister loved me. So who killed me?",
+        "bottom": "I suffered from congenital diabetes. Dad didn't let me eat high-calorie foods, and Mom gave me insulin injections every day. To treat my illness, our family was already deeply in debt, and our meager life meant my sister couldn't afford anything she wanted. She hated me, this burden, so my sister often secretly bought me snacks, which led to my death from diabetic complications.",
+        "tips": [
+            "I suffered from severe diabetes",
+            "Parents' actions were necessary medical measures",
+            "Sister's \"love\" was actually harmful behavior",
+            "Forbidden snacks led to worsening condition and death",
+            "Sister is the ultimate perpetrator"
+        ]
+    },
+    {
+        "title": "Note",
+        "surface": "A girl returned home to find her mother dead, her father haggard. In a pool of blood nearby were several torn pieces of paper. The girl then discovered the torn note, which read: \"Daughter, quick, leave, Dad, crazy!!\"",
+        "bottom": "The daughter had mental problems; she killed her mother. The note was written by the mother, but it was torn, so the words were jumbled. The real reading was \"Dad, quick, leave, daughter is crazy.\"",
+        "tips": [
+            "The daughter is the murderer of the mother",
+            "The note fragments were disordered, leading to misinterpretation",
+            "The note was a warning from the mother to the father",
+            "The daughter suffers from a mental illness",
+            "The father is haggard from witnessing the tragedy"
+        ]
+    },
+    {
+        "title": "Her Lie",
+        "surface": "Hearing my daughter's voice, I was terrified. Then I quietly thought about how to punish her for lying.",
+        "bottom": "When I recognized my daughter's voice on the other end of the suicide prevention hotline, I was terrified. I quietly listened to her shouting, crying, and accusing her abusive mother, and began to think about how to punish the bad child who lied, as she had clearly promised not to tell anyone.",
+        "tips": [
+            "I am a suicide prevention hotline operator",
+            "The daughter called the hotline to accuse her mother of abuse",
+            "I am the abusive mother being accused",
+            "\"Lying\" refers to the daughter breaking her promise to expose domestic violence",
+            "The narrator's fear stems from the secret being revealed"
+        ]
+    },
+    {
+        "title": "Frantic Knocking",
+        "surface": "The person outside frantically knocked on the door; he ignored it. He heard a hammer smashing the door, and soon after, screams came from outside the door.",
+        "bottom": "He was a pilot suffering from depression. The doctor diagnosed his depression and reported it to the airline, hoping he would be grounded, but the company didn't care. One day on a civilian flight, he told the co-pilot to go to the restroom, sending him away. It was already the cruising phase, which should have been very safe. When the co-pilot returned, he found the cockpit door locked. He frantically knocked, but the pilot inside was unmoved. He started smashing the door, but airplane doors are very strong. Passengers gradually understood what was happening, and at the moment of impact with the mountain, the black box recorded the screams of all passengers.",
+        "tips": [
+            "The story takes place inside an airplane cockpit",
+            "The person inside the door is the pilot who intentionally locked it",
+            "The person outside the door is the co-pilot trying to enter",
+            "The pilot suffered from depression and was ignored",
+            "The final screams came from the plane crash"
+        ]
+    },
+    {
+        "title": "Wife",
+        "surface": "\"Your wife is so young and beautiful.\" They smiled. \"Your wife is so young and beautiful.\" He smiled.",
+        "bottom": "The man's wife was young and beautiful, and he always received compliments when he took her out. Both husband and wife were very happy. Later, his wife gradually aged, developing wrinkles and loose skin. The man heard fewer and fewer compliments and envious remarks. So, he pulled his wife's facial skin tight and stitched it up behind her head, making her appear perpetually young and beautiful. \"Your wife is so young and beautiful.\" He finally heard compliments again and smiled happily. But his wife, enduring the pain and tightness of her facial skin, could no longer smile.",
+        "tips": [
+            "The wife's youthfulness is an artificially maintained illusion",
+            "The husband achieved \"youth\" by stitching his wife's facial skin",
+            "The husband's motive was to gain others' praise",
+            "\"They\" refers to the couple, \"he\" refers to the husband",
+            "The wife could not smile due to her facial skin being pulled tight"
+        ]
+    },
+    {
+        "title": "It's Dark",
+        "surface": "Don't come to my house when it's dark. At eight, Mom hides under the bed. At nine, Dad drags you to drink. At ten, Sister gets up; she doesn't like you much. You're really unlucky.",
+        "bottom": "Dad was a hopeless alcoholic. When he got drunk, he would beat everyone in the family. Mom could only hug me and my sister and hide under the bed. Until Dad accidentally killed Mom. Sister, to protect me, killed Dad and was taken away by the police.\nThe huge psychological trauma caused me to develop multiple personalities. I told my boyfriend not to come to my house when it's dark, but he still came. At eight o'clock, the Mom personality hid under the bed; at nine o'clock, the Dad personality dragged him to drink; at ten o'clock, the Sister personality woke up, saw the drunk boyfriend, thought he was like Dad, and, afraid I would repeat the same mistakes, killed him.",
+        "tips": [
+            "The narrator suffers from severe mental problems due to past family tragedy.",
+            "The narrator exhibits different personalities of deceased family members.",
+            "These personalities emerge and act at specific times during the night.",
+            "The visitor came to the narrator's house at night despite warnings.",
+            "The visitor was ultimately killed by one of the narrator's personalities."
+        ]
+    },
+    {
+        "title": "Favoritism",
+        "surface": "Mom made me a big table of delicious food and even set out bowls and chopsticks for me, but Mom died. Mom died, and my sister died too.",
+        "bottom": "My younger sister developed a heart problem the day after tomorrow. Because Mom favored my sister, she wanted to use my heart to save my sister's life, so she poisoned my bowl. I guessed Mom's intention, and when she wasn't looking, I swapped the poisoned bowl. Mom accidentally ate it, and so Mom died. My sister also died because her heart wasn't replaced.",
+        "tips": [
+            "The younger sister suffered from a life-threatening illness.",
+            "The food prepared by the mother contained something lethal.",
+            "The mother intended to kill the narrator to save the younger sister.",
+            "The narrator took a crucial action before the meal.",
+            "The mother and sister died in different ways."
+        ]
+    },
+    {
+        "title": "Pregnant",
+        "surface": "I'm pregnant... but ever since my sister came to my house, I'm the only one left in the house.",
+        "bottom": "My husband and I were very much in love. Shortly after we got married, I became pregnant. We finally had our first child, but I developed postpartum depression because of it. My mental state got worse and worse, and I had a strong lack of security. I imagined my child as my 'sister'. I saw that whenever the 'sister' cried, my husband would rush to comfort her, and even when the 'sister' ate, my husband had to feed her. I felt very angry and jealous. Why should my husband care so much for this 'sister'? He said he would only love me in his life. Overwhelmed by anger and jealousy, I killed both of them in a fit of rage.",
+        "tips": [
+            "The narrator recently gave birth to a child.",
+            "The narrator's mental state became unstable after childbirth.",
+            "The 'sister' mentioned in the story actually refers to the baby.",
+            "The narrator misunderstood and became jealous of her husband's care for the baby.",
+            "The other people in the house were killed by the narrator."
+        ]
+    },
+    {
+        "title": "Milk",
+        "surface": "Sister drank the milk and died,\nDad threw away the milk and also died\nI died, Mom smiled.",
+        "bottom": "Dad fell in love with someone else, but after several attempts to test the waters, he found out Mom wouldn't agree to a divorce, so he poisoned Mom's milk. Sister didn't know the milk was poisoned and died after drinking it. To destroy the evidence, Dad threw away the remaining milk. Mom noticed Dad's strange behavior and knew he originally intended to poison her, so she killed Dad while he was asleep. After Dad and Sister died, Mom focused all her energy on me, becoming extremely strict with me. If I didn't do well, she would abuse me and gaslight me. Gradually, I couldn't bear it anymore and chose to end my own life. Mom lost all her relatives, her brain suffered a shock, and she became insane, sitting on the balcony every day, smiling foolishly.",
+        "tips": [
+            "Milk was the key item that caused death.",
+            "The sister was accidentally killed by the father.",
+            "The mother smiled because she had mental problems.",
+            "The mother killed the father.",
+            "The narrator's death is related to the mother's behavior after other family members died."
+        ]
+    },
+    {
+        "title": "Brother",
+        "surface": "Brother's face was injured, I was extremely angry! At night, an identical wound appeared on my face. Drip, drip. From then on, brother will never be injured again.",
+        "bottom": "My brother and I are twins, we look exactly alike, and our personalities and hobbies are also the same. But we both extremely disliked the existence of such a similar person in the world, so we jointly decided to let one 'completely disappear' and live under one identity from then on, so that in the eyes of others, we would be 'the only one.' We agreed to go out one day at a time. This day, my brother came back with an intentional injury on his face. I was very angry! If I wanted to go out tomorrow, I would have to make an identical wound on my face in the same place, otherwise I would have to stay at home until his wound healed. At night, after my brother fell asleep, I compared and made the same wound on my face. Blood dripped from the tip of the knife onto my brother, drip, drip. I aimed the tip of the knife at my brother's heart and plunged it in. From now on, I am the real 'only one,' and my brother will never need to intentionally injure himself again.",
+        "tips": [
+            "The narrator and his brother are identical twins.",
+            "They agreed to take turns playing the same person.",
+            "The injury on the brother's face was intentional.",
+            "The narrator replicated the wound on his own face.",
+            "The narrator killed his brother."
+        ]
+    },
+    {
+        "title": "Hospital",
+        "surface": "I got sick and went to the hospital. Soon after, my sister died. Why?",
+        "bottom": "I am congenitally intellectually disabled. When I was a child, I saw on TV that woodpeckers tap tree trunks to determine if there are insects inside. Recently, my mother took me to the hospital because of a stomachache. The doctor said I ate something unclean and had parasites in my stomach. Later, one day when my sister and I were at home, she suddenly cried out from a stomachache. I thought she also had worms in her stomach, so I imitated the woodpecker's method, found a tool, and chiseled at my sister's stomach trying to find the worms. As a result, my sister died.",
+        "tips": [
+            "The narrator has intellectual disabilities.",
+            "The narrator recently went to the hospital due to parasites in their stomach.",
+            "The narrator imitated a certain animal behavior seen on TV.",
+            "The sister and the narrator experienced similar physical discomfort (stomachache).",
+            "The narrator inflicted physical harm on the sister."
+        ]
+    },
+    {
+        "title": "Different Eyes",
+        "surface": "I grew up in an orphanage. The children were all afraid of me, but a woman wanted to raise me. I thought she loved me very much, until I saw what was in the room.",
+        "bottom": "I grew up in an orphanage. They were afraid of me because I said I could see ghosts. But a woman took a liking to me. She was very good to me, and I treated her like a mother, until one day I saw a room full of posthumous photos of another girl. It turned out she didn't really want to adopt me, but wanted to use my eyes to see her daughter, but I had deceived her.",
+        "tips": [
+            "The narrator claims to have special abilities (can see ghosts).",
+            "The woman who adopted the narrator has a deceased child.",
+            "The woman's motive for adopting the narrator is related to her deceased child.",
+            "The narrator saw things related to the deceased child in a room.",
+            "The narrator's claimed special ability is false."
+        ]
+    },
+    {
+        "title": "Spitting out Medicine",
+        "surface": "My wife always makes me take my medicine on time. Although I love my wife very much, I secretly spit out the medicine.",
+        "bottom": "My wife is already dead, the cause of death was a car accident. I developed a mental illness due to excessive grief. I secretly spit out the medicine so that I can fantasize that my wife is by my side. If I take the psychiatric medication, the fantasized wife disappears. (To prevent my wife from disappearing, I always secretly spit out the medicine; this way, the fantasized wife stays with me).",
+        "tips": [
+            "The wife's true state is inconsistent with what is apparent in the story.",
+            "The narrator suffers from a mental illness.",
+            "The medicine's effect is to influence the narrator's mental state.",
+            "The narrator's interaction with the 'wife' does not occur in reality.",
+            "Spitting out the medicine is to maintain a certain status quo."
+        ]
+    },
+    {
+        "title": "The Porridge He Cooked",
+        "surface": "Ding-ling-ling... (phone alarm) People on the street looked at me in horror. I saw blood on my hands. I thought I would never be able to drink the porridge he cooked again.",
+        "bottom": "He is my boyfriend, we are very much in love, and recently decided to move in together. He is very good to me, usually makes me delicious food, his cooking skills are really good, and I love the fish congee he makes for me the most. But I have a secret I never told him, which is that I have somnambulism (sleepwalking). This night, I forgot to take the medicine for sleepwalking. In my sleep, I dreamed that he was working overtime at the company, and I also wanted to make a bowl of delicious fish congee to send to him as a late-night snack. I followed his method to prepare the fish, chopped off the fish head, gutted the fish, removed the internal organs, sliced the fish, and then put it in the congee to simmer... After it was done, I tasted it, and the flavor was truly unprecedentedly delicious, he would definitely praise my cooking skills! I immediately packed the congee and happily went out to deliver it to him. I was walking on the street thinking about how he would praise me, and then the alarm clock rang. Suddenly the scene changed from night to early morning, the lunch box in my hand disappeared, and only the shocking bloodstains on my hands appeared vaguely... Everyone on the street stared wide-eyed, looking at me covered in blood as if they had seen a ghost. I think, yesterday I probably used him, to cook the congee. I think, I will never be able to drink the porridge he cooked again...",
+        "tips": [
+            "The narrator suffers from somnambulism (sleepwalking) and did not take medication that night.",
+            "The narrator killed her boyfriend.",
+            "The narrator imitated the process of making congee while sleepwalking.",
+            "The next morning, the narrator woke up on the street, covered in blood.",
+            "The boyfriend's death is related to the 'congee-making' behavior during sleepwalking."
+        ]
+    },
+    {
+        "title": "Home",
+        "surface": "After the cactus at home withered, I took my younger brother to see a waterfall. Later, Mom's flower also died.",
+        "bottom": "Mom favored my younger brother, indulged him exceptionally, and cherished him like a flower in the palm of her hand. Even when my younger brother deliberately poured boiling water on my most beloved cactus and killed it, Mom just said: 'Forget it, forget it, he's still just a child.' I was very angry and jealous, so I poured a basin of scalding boiling water over my younger brother's head. The scalding water steamed, like a cascading waterfall. It's great, now Mom's flower is dead too.",
+        "tips": [
+            "The cactus was deliberately killed by the younger brother.",
+            "The way the younger brother was killed is related to the way the younger brother killed the cactus.",
+            "Mom favored the younger brother very much, which caused the narrator's dissatisfaction.",
+            "'Waterfall' does not refer to a natural landscape.",
+            "'Mom's flower' is a metaphor for the younger brother."
+        ]
+    },
+    {
+        "title": "Small Shop",
+        "surface": "New Year is approaching. Mom has been acting strangely lately, but Dad is all smiles. I swapped their positions. Business came, the customer screamed, Dad went mad, and Mom cherished me especially.",
+        "bottom": "Our family runs a small shop selling noodles. New Year is approaching, and everywhere is festive. Mom just gave birth to my younger brother, and Dad is especially happy. But Mom, suffering from postpartum depression, has been behaving strangely, almost erratically.\nI was afraid the newborn baby would take away Mom and Dad's affection, so I swapped my baby brother in the cradle with the meat on the chopping block. Soon, a customer came. He wanted to buy dumpling wrappers for the New Year and asked Mom to grind the dumpling meat filling. Mom, not in her right mind, directly stuffed my brother from the chopping block into the meat grinder. Flesh and blood splattered everywhere; the customer screamed in terror.\nDad, upon discovering this, went mad. From then on, they only had me as their child, and Mom cherished me especially.",
+        "tips": [
+            "This family's business is related to food processing.",
+            "The mother has just given birth and is mentally unstable.",
+            "The narrator feels insecure because of the newborn younger brother.",
+            "The narrator swapped the baby with ingredients ready for processing.",
+            "The baby's manner of death is related to the food processing procedure."
+        ]
+    },
+    {
+        "title": "Business",
+        "surface": "The man did a piece of business as usual, but his family, who usually supported him, was very angry this time.",
+        "bottom": "When the man was young, he was a human trafficker and made a fortune from it. His family was also very happy. However, after getting older, the man developed Alzheimer's disease. He forgot he was out playing with his grandson and sold him. The family was very angry.",
+        "tips": [
+            "The man's 'business' involved human trafficking.",
+            "The family had previously benefited from or supported this 'business'.",
+            "The man now suffers from a disease causing severe memory loss.",
+            "The 'business' this time involved a family member, unlike before.",
+            "The family's anger was because the man sold his own grandson."
+        ]
+    },
+    {
+        "title": "Game",
+        "surface": "Let's play a game. You play the adult, I'll pretend to be the lover. Only good people will be left.",
+        "bottom": "My dad was abusive. Mom died protecting me. I hate him. Next door lived a mother and daughter; the girl was much younger than me. Once, I followed Dad and found him secretly assaulting the girl, while the girl's mother watched coldly. So I found the girl and learned from her that her mother, after divorcing, had a chaotic private life and especially favored young men. So we conspired to avenge each other. She wore sexy clothes to seduce Dad, and I took the opportunity to kill Dad. I wore youthful clothes to seduce her mother, creating an opportunity for her to kill her mother.\nFinally, all the bad people were killed by us. Only good people were left.",
+        "tips": [
+            "The narrator and another girl were both victims of domestic violence.",
+            "Their abusers were elders in their respective families.",
+            "'Playing the adult' and 'pretending to be the lover' were part of their revenge plan.",
+            "They cooperated to create opportunities for each other to commit murder.",
+            "The 'good people' left at the end refer to the narrator and the neighbor girl."
+        ]
+    },
+    {
+        "title": "Notebook",
+        "surface": "I am a detective, recently investigating a case. Today, there was a major breakthrough in the case; I found a notebook. Suddenly, my expression changed dramatically.",
+        "bottom": "I have dissociative identity disorder, but I personally don't know it. After my whole family was murdered, I resolved to become a detective to avenge them. Recently, I was investigating a case; the victim looked a lot like my sister, and I swore to find the killer. Finally, I found a notebook. After opening it, I found the handwriting familiar. After reading it, I was about to record important clues when I suddenly realized it was my handwriting. Recalling the contents of the notebook, I gave a bitter laugh. It turned out I had dissociative identity disorder and had wiped out my own family. And all of this was 'my' (the other personality's) plan; he wanted to become the dominant personality. Utterly dejected, I sought my own death.",
+        "tips": [
+            "The case the narrator is investigating is the murder of his own family.",
+            "The key piece of evidence is a notebook.",
+            "The handwriting in the notebook is identical to the narrator's own handwriting.",
+            "The narrator suffers from a severe mental illness, but is unaware of it.",
+            "The notebook reveals that the narrator himself is the murderer of his family."
+        ]
+    },
+    {
+        "title": "Necklace",
+        "surface": "I wore my sister's necklace and survived because of it.",
+        "bottom": "Because my sister and I are twins, we look very much alike. So Mom, to distinguish us, gave us different necklaces. But I gradually discovered that Mom was actually using it to better favor my sister. So I found an excuse to exchange necklaces with my sister, then pushed her into the water, and jumped in myself, crying for help. I knew Mom would definitely save 'sister'.",
+        "tips": [
+            "The narrator and her sister are identical twins.",
+            "The necklace is the key item to distinguish their identities.",
+            "The mother treated the two children differently.",
+            "Before the incident, the narrator and her sister had exchanged necklaces.",
+            "Survival was directly related to which necklace was worn."
+        ]
+    }
+]

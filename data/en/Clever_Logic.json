@@ -1,0 +1,883 @@
+[
+    {
+        "title": "Police",
+        "surface": "A sweet-looking girl, shy and flustered, asked a passerby: 'Hello, do you know if there are any police nearby?'",
+        "bottom": "Passerby: 'Uh, I don't think so.' Girl: 'So, it's not possible to find a police officer quickly?' Passerby: 'Mmm, probably not.' Girl: 'Okay, then. Hands up, this is a robbery!'",
+        "tips": [
+            "The girl wasn't asking about the police for help.",
+            "She needed to confirm that no police were nearby.",
+            "The girl was assessing the risk of carrying out a plan.",
+            "Her appearance and demeanor were deceptive.",
+            "The girl's real purpose was to rob someone.",
+            "She only revealed her intention after confirming the police were not around.",
+            "The passerby was misled by the girl's appearance."
+        ]
+    },
+    {
+        "title": "Penta Kill",
+        "surface": "This is the fifth person you've killed. Although you feel a little guilty, you believe it was all worth it.",
+        "bottom": "You are playing the game 'Honor of Kings' and you stole your teammate's kill.",
+        "tips": [
+            "The 'killing' took place in a virtual world.",
+            "This happened in a video game.",
+            "The game is a multiplayer online battle arena.",
+            "The 'fifth person' refers to a 'penta kill' achievement in the game.",
+            "The feeling of 'guilt' is related to a teammate.",
+            "The guilt is because you stole a teammate's kill.",
+            "Feeling it was 'worth it' is because of the sense of achievement in the game.",
+            "The 'person' refers to an in-game character or a kill count."
+        ]
+    },
+    {
+        "title": "Dinner Date",
+        "surface": "You and a friend arranged to have dinner together. Your friend said to find a hidden spot so you wouldn't be discovered. Halfway through the meal, your friend exploded.",
+        "bottom": "You two are mosquitoes, drinking blood. You were discovered and swatted.",
+        "tips": [
+            "'You' and your 'friend' are not human.",
+            "They are insects.",
+            "Specifically, they are mosquitoes.",
+            "'Having dinner' refers to sucking blood.",
+            "They need to be hidden to avoid being discovered by their food source.",
+            "Their food source is a living creature.",
+            "Your friend 'exploding' means being swatted or squashed.",
+            "They were eventually discovered."
+        ]
+    },
+    {
+        "title": "Blind Box",
+        "surface": "He was arrested for his love of opening blind boxes.",
+        "bottom": "He loved blind boxes but didn't want to spend money on them. So, he repeatedly stole packages from various residential complexes near his home. Since he didn't know what was inside the packages, he could enjoy the 'fun of opening blind boxes.' Later, he was arrested by the police.",
+        "tips": [
+            "He wasn't opening blind boxes bought from a store.",
+            "These 'blind boxes' were stolen by him.",
+            "He was stealing other people's delivery packages.",
+            "He didn't care about the specific items inside the packages.",
+            "He enjoyed the process of opening unknown packages.",
+            "He was arrested for theft.",
+            "He didn't want to spend money on real blind boxes."
+        ]
+    },
+    {
+        "title": "Dancing",
+        "surface": "She stood there dancing, smiling as she watched her companions die one by one. What was happening?",
+        "bottom": "She is the Sunflower from 'Plants vs. Zombies'.",
+        "tips": [
+            "The event takes place in a game.",
+            "The game is 'Plants vs. Zombies'.",
+            "'She' is a character in the game.",
+            "Specifically, 'she' is the Sunflower.",
+            "'Dancing' is the Sunflower's in-game animation.",
+            "'Companions' are the other plants in the game.",
+            "The companions 'dying' means they are being destroyed by zombies in the game.",
+            "The Sunflower is responsible for producing resources in the game.",
+            "Her smile is part of the character's fixed design."
+        ]
+    },
+    {
+        "title": "A Slap",
+        "surface": "A person woke up in the middle of the night, slapped himself, and then, smelling a burning scent, went back to sleep peacefully. What happened?",
+        "bottom": "The person was woken up by a mosquito bite. He tried to slap it but missed, then lit a mosquito coil.",
+        "tips": [
+            "The person was woken up by a mosquito buzzing or biting.",
+            "His target when he slapped himself was a mosquito.",
+            "He missed the mosquito.",
+            "The burning smell came from a mosquito coil.",
+            "He lit a mosquito coil.",
+            "Lighting the coil was to repel or kill the mosquito.",
+            "He went back to sleep peacefully because the mosquito problem was solved."
+        ]
+    },
+    {
+        "title": "Hiccups",
+        "surface": "A man walked into a bar and asked for a glass of water. The bartender pulled out a gun and pointed it at him. However, the man thanked the bartender and left. Why?",
+        "bottom": "The man had persistent hiccups and wanted a glass of water. The bartender scared him with the gun, and his hiccups stopped.",
+        "tips": [
+            "The man was hiccuping at the time.",
+            "He wanted water to stop the hiccups.",
+            "The bartender pulled out the gun to scare him.",
+            "The bartender's goal was to help him stop hiccuping.",
+            "The scare successfully cured his hiccups.",
+            "He thanked the bartender because his hiccups had stopped.",
+            "The bartender did not actually intend to harm him."
+        ]
+    },
+    {
+        "title": "Can't Come Back",
+        "surface": "A person came out of a house, hailed a taxi, and was never able to return to that house again. Why?",
+        "bottom": "The person was a thief, and the taxi driver was the owner of the house. The driver took him directly to the police station.",
+        "tips": [
+            "The person coming out of the house was a thief.",
+            "He had just committed a theft.",
+            "The taxi driver was the owner of that house.",
+            "The driver recognized the thief or the situation.",
+            "The thief did not go where he intended to go.",
+            "The taxi went directly to the police station.",
+            "The thief was arrested.",
+            "He couldn't come back because he was caught."
+        ]
+    },
+    {
+        "title": "The Ritual",
+        "surface": "Lately, your parents have been arguing a lot. You also feel your mother has been acting strangely. She's always distracted, secretly asking you how to transfer money to others... Sometimes she waves her hands silently at home as if performing some ritual. One evening after dinner, your father went out for a walk, and your mother also quietly left. Already suspicious, you followed her... Ah, so that's what it was...",
+        "bottom": "Your mother was practicing for her public square dancing group. Your father thought she was having an affair. The money transfer was to buy team outfits for dancing, and the hand-waving was to practice the dance moves. To avoid disturbing the neighbors, all the square-dancing ladies wear headphones and dance in silence, which looks like they're performing some mysterious ritual.",
+        "tips": [
+            "The mother's strange behavior was square dancing.",
+            "The father misunderstood the mother's actions.",
+            "The father suspected the mother was having an affair.",
+            "The mother asked about transferring money to buy dance costumes.",
+            "The mother waving her hands was her practicing dance moves.",
+            "The 'silence' was because they were dancing with headphones on.",
+            "Dancing with headphones was to avoid disturbing the neighbors.",
+            "The mother sneaking out was to go dance with her group.",
+            "The parents' arguments stemmed from the father's misunderstanding."
+        ]
+    },
+    {
+        "title": "The Woman in the Pink Dress",
+        "surface": "Your new neighbor is a young man who lives alone. One day, coming home after a late-night snack, you see a long-haired woman in a pink dress and heavy makeup enter your neighbor's apartment. Late at night, you hear arguing and things being thrown from next door, which is especially loud in the quiet hallway. The next day, in the trash bag outside your neighbor's door, you see a shredded pink dress and a lock of long hair. You ask your neighbor about it, but he stammers and won't say anything... Should you call the police? What happened?",
+        "bottom": "The neighbor is a man with a cross-dressing fetish, which is why he has always been single. His family doesn't know about this and has been pressuring him to get married, so he moved out of his parents' house. That day, the neighbor was coming home after being dressed as a woman, and you saw him. Unexpectedly, his mother was already waiting for him at home. Seeing her son in women's clothing, they had a huge fight, and the mother cut up his pink dress and wig. This is what you saw.",
+        "tips": [
+            "The 'woman' in the pink dress was the neighbor himself.",
+            "The neighbor is a man who cross-dresses.",
+            "The late-night argument was between the neighbor and his mother.",
+            "The neighbor's mother discovered his cross-dressing.",
+            "The mother was very angry about it.",
+            "The mother shredded the neighbor's pink dress.",
+            "The mother cut up the neighbor's wig.",
+            "The neighbor stammered because he wanted to hide his cross-dressing.",
+            "The neighbor's family does not accept his hobby.",
+            "The items in the trash bag were the result of a family conflict, not evidence of a crime."
+        ]
+    },
+    {
+        "title": "The 18th Floor",
+        "surface": "Xiao Ming lives on the 18th floor. Sometimes when he comes home, he takes the elevator directly to the 18th floor, but other times he takes it to the 15th floor and then climbs the stairs to the 18th. Why?",
+        "bottom": "Xiao Ming is a small child and can't reach the button for the 18th floor, but he can when he has an umbrella.",
+        "tips": [
+            "Xiao Ming is a child and is not tall enough.",
+            "He cannot always reach the 18th-floor elevator button.",
+            "The 15th floor is the highest button he can consistently reach.",
+            "When he can't reach the 18th-floor button, he presses the 15th.",
+            "He then climbs the stairs for the remaining 3 floors.",
+            "Sometimes he can go directly to the 18th floor.",
+            "This depends on whether he is carrying a certain tool.",
+            "This tool is an umbrella.",
+            "He uses the umbrella to press the 18th-floor button."
+        ]
+    },
+    {
+        "title": "The Phone",
+        "surface": "You were playing on your phone, glanced out the window, and saw a face. You knew you were done for.",
+        "bottom": "You were in a study hall class and saw your head teacher's face.",
+        "tips": [
+            "'You' were in a study hall class at the time.",
+            "Using a phone is not allowed during study hall.",
+            "The face outside the window was the head teacher's.",
+            "The head teacher saw 'you' playing on your phone.",
+            "'You' broke a classroom rule.",
+            "'Done for' refers to the consequences of being caught by the head teacher.",
+            "The head teacher is usually responsible for supervising classroom discipline."
+        ]
+    },
+    {
+        "title": "Unexpectedly Young",
+        "surface": "One day, the idle Xiao Li was wandering the streets. He happened to be near a primary school as it was letting out. In the crowded stream of people, Xiao Li was unfortunately knocked over by a mischievous student, Xiao Ming. Not only did Xiao Ming not apologize, but he also provoked Xiao Li. However, Xiao Li wasn't angry and was instead very happy. Why?",
+        "bottom": "Xiao Ming angrily said, 'Which class are you in?' Xiao Li, who was nearly 30, never expected to look so young in a primary schooler's eyes and felt much better about himself.",
+        "tips": [
+            "Xiao Li's actual age is close to 30.",
+            "Xiao Ming is a primary school student.",
+            "Xiao Ming said something to Xiao Li after knocking him over.",
+            "Xiao Ming asked Xiao Li which class he was in.",
+            "Xiao Ming mistook Xiao Li for a student.",
+            "Xiao Li was happy because of what Xiao Ming said.",
+            "Xiao Li was happy because he felt he looked young.",
+            "Xiao Li was not angry about being knocked over or provoked."
+        ]
+    },
+    {
+        "title": "Cutting in Line",
+        "surface": "One day, Xiao Ming went to the hospital. When picking up his medicine, he was at the end of a very long line. After half an hour, there were still many people in front of him. Just then, a stranger named Xiao Li cut in and stood right in front of Xiao Ming. Xiao Ming was very angry, but soon after, he felt very happy. Why?",
+        "bottom": "Xiao Ming was very angry when he saw Xiao Li cut in line. Suddenly, he glanced at the prescription in Xiao Li's hand and saw it was for Chinese medicine, while this was the window for Western medicine. Xiao Ming then gloated.",
+        "tips": [
+            "Xiao Li cut in line right in front of Xiao Ming.",
+            "Xiao Ming noticed the prescription in Xiao Li's hand.",
+            "Xiao Li had a prescription for Chinese medicine.",
+            "They were in line at the Western medicine pickup window.",
+            "Xiao Li was in the wrong line.",
+            "Even by cutting in, Xiao Li couldn't get his medicine at this window.",
+            "Xiao Ming's happiness came from realizing Xiao Li's efforts were in vain."
+        ]
+    },
+    {
+        "title": "Parent-Teacher Conference",
+        "surface": "Xiao Ming got into trouble at school again! The head teacher called to complain. Xiao Ming's mother, in tears, gave the middle schooler a harsh beating. But Xiao Ming was very happy. Do you know why?",
+        "bottom": "Her son got into trouble at school again, and the head teacher called to complain. In tears, she felt the full difficulty of being a single mother. She spanked the 12-year-old boy several times and yelled, 'What did you do this time? What's your excuse?' The son blinked and said with a smile, 'Mom, this is the tenth time I've gotten into trouble. The teacher has to make a home visit now. Our male teacher is single and very handsome!'",
+        "tips": [
+            "Xiao Ming's mother is single.",
+            "Xiao Ming deliberately got into trouble at school multiple times.",
+            "The school rule is that after a certain number of infractions, the teacher will make a home visit.",
+            "This was the tenth time he got into trouble.",
+            "The teacher responsible for the home visit is male.",
+            "This male teacher is single.",
+            "Xiao Ming thinks this male teacher is handsome.",
+            "Xiao Ming hopes to set up his mother with the teacher through the home visit.",
+            "Although Xiao Ming was punished, he was happy in anticipation of the home visit."
+        ]
+    },
+    {
+        "title": "The Phone Trick",
+        "surface": "One day, Xiao Ming and Xiao Li were on a bus together. The bus was extremely crowded. Xiao Li complained to Xiao Ming that it was too crowded. Xiao Ming said, 'If you help me take out my phone, it won't be so crowded.' Xiao Li did as he was told, and indeed, the space around them immediately became much wider. Why?",
+        "bottom": "Xiao Ming asked Xiao Li to take the phone out of Xiao Ming's pocket. As soon as Xiao Li reached in to get it, Xiao Ming grabbed his hand and yelled, 'What are you doing?' The surrounding passengers thought Xiao Li was a pickpocket and quickly moved away from him.",
+        "tips": [
+            "The space widened because other passengers actively moved away.",
+            "Xiao Ming asked Xiao Li to take the phone from his pocket.",
+            "When Xiao Li reached for the phone, Xiao Ming grabbed his hand.",
+            "Xiao Ming shouted loudly, creating a scene.",
+            "The surrounding passengers misunderstood Xiao Li's actions.",
+            "The passengers thought Xiao Li was a pickpocket.",
+            "The passengers moved away to create distance.",
+            "This was a deliberate trick planned by Xiao Ming.",
+            "Xiao Ming's goal was to make others think Xiao Li was a thief."
+        ]
+    },
+    {
+        "title": "The Model's Advantage",
+        "surface": "Xiao Li and his girlfriend are both art students, and his girlfriend's painting skills are far superior to his. However, in the final art exam, Xiao Li's score was much higher than his girlfriend's. Why?",
+        "bottom": "The final exam was a life drawing test. Xiao Li and his girlfriend painted each other. The girlfriend was beautiful, so even though Xiao Li's skills were not great, his painting looked decent. Xiao Li was not good-looking, so although his girlfriend's painting was very realistic, the teacher thought she had drawn the proportions asymmetrically and the facial features were distorted.",
+        "tips": [
+            "The final exam subject was life drawing.",
+            "Xiao Li and his girlfriend served as models for each other.",
+            "The girlfriend is beautiful.",
+            "Xiao Li is not good-looking.",
+            "The girlfriend's painting skills are better than Xiao Li's.",
+            "Xiao Li's painting of his girlfriend looked okay because the model was beautiful.",
+            "The girlfriend's painting of Xiao Li was very realistic.",
+            "The teacher thought the girlfriend's painting had problems with proportion and facial features.",
+            "The teacher's judgment was influenced by the model's (Xiao Li's) appearance.",
+            "Xiao Li got a high score because his model (the girlfriend) was beautiful, masking his lack of skill.",
+            "The girlfriend got a low score because of the model's (Xiao Li's) actual appearance."
+        ]
+    },
+    {
+        "title": "Martial Arts School Meets Bandits",
+        "surface": "Xiao Ming and Xiao Li are about to graduate, and they decided to go on a trip together. They joined a tour group and took a bus to their destination. However, when the bus reached the mountain road, a group of bandits suddenly appeared from the woods. Everyone on the bus was terrified, but Xiao Ming and Xiao Li were unusually excited. Why?",
+        "bottom": "Xiao Ming and Xiao Li are graduates of a martial arts school. They usually lack opportunities to showcase their skills, and now they saw the bandits as a chance to demonstrate their martial arts.",
+        "tips": [
+            "Xiao Ming and Xiao Li are martial arts school graduates",
+            "The group encountered highway robbers during the trip",
+            "Everyone on the bus was terrified",
+            "The two were excited to see the bandits",
+            "They were eager to display their martial arts skills"
+        ]
+    },
+    {
+        "title": "Hiccup Cure by Fright",
+        "surface": "A doctor says to his patient, \"You have a terminal illness.\"The patient smiles, thanks the doctor, and walks out of the hospital. Why?",
+        "bottom": "The patient's actual problem was a stubborn case of the hiccups. To cure him, the doctor deliberately used the lie of a \"terminal illness\" to give the patient a major shock. The hiccups stopped immediately. The patient understood the doctor's unconventional method and thanked him for the cure.",
+        "tips": [
+            "The patient's \"illness\" was not serious.",
+            "The doctor was lying.",
+            "The doctor's words had a \"healing\" effect.",
+            "The patient was thankful because his problem was solved."
+        ]
+    },
+    {
+        "title": "The Mouse's End",
+        "surface": "As he stepped out of the house, everything suddenly went dark, and death followed.",
+        "bottom": "He was a mouse, and as he stepped outside, a cat ate him.",
+        "tips": [
+            "The main character is actually a mouse",
+            "He was attacked by a cat as soon as he stepped outside",
+            "The darkness was caused by the cat catching him",
+            "He was ultimately eaten by the cat",
+            "The mouse encountered its natural enemy outside"
+        ]
+    },
+    {
+        "title": "Fish Tank Tragedy",
+        "surface": "Edward and Christine died on the floor, surrounded by water and broken glass.",
+        "bottom": "Edward and Christine were goldfish living in a fish tank. When the tank broke, they no longer had water and died.",
+        "tips": [
+            "The deceased are not human names",
+            "They originally lived in water",
+            "The broken glass came from their home",
+            "The water on the floor was their habitat",
+            "Edward and Christine were pets"
+        ]
+    },
+    {
+        "title": "Abandoned Building",
+        "surface": "One night, a group of boys from the male dormitory appeared in an abandoned building, but they all collapsed in shock. Please reason why.",
+        "bottom": "The boys went to the abandoned building that night to count the number of stairs, testing the internet rumor that you miss one step when counting stairs at night. However, when they got to the abandoned building, they discovered there were no stairs at all.",
+        "tips": [
+            "They wanted to verify an online rumor",
+            "The rumor involved counting stairs at night",
+            "The purpose of their trip was related to stairs",
+            "A key item was missing inside the building",
+            "Their discovery led to their collapse"
+        ]
+    },
+    {
+        "title": "Pregnancy Reveal",
+        "surface": "Basketball star Mr. A's girlfriend is pregnant, and he lost his NCAA eligibility. Why?",
+        "bottom": "His girlfriend is a doping inspector. Since she couldn't work while pregnant, Mr. A was caught taking performance-enhancing drugs and was disqualified.",
+        "tips": [
+            "The star was disqualified due to his girlfriend's pregnancy",
+            "His girlfriend’s real identity was a doping inspector",
+            "She could no longer cover for him because of her pregnancy",
+            "He was caught taking drugs and was disqualified",
+            "The pregnancy revealed the doping issue"
+        ]
+    },
+    {
+        "title": "Monopoly",
+        "surface": "She walked in front of a house, knowing that she was doomed.",
+        "bottom": "She was playing Monopoly, passing her opponent's property. In the game, players move pieces by rolling dice, and if they land on an opponent's property, they must pay rent. If they can't pay, they may go bankrupt. She was about to lose the game because she couldn’t afford the rent.",
+        "tips": [
+            "This is a tabletop game scene",
+            "The house is not a real property",
+            "The house belongs to an opponent in the game",
+            "She doesn't have enough money to pay",
+            "She is about to lose the game due to the rules"
+        ]
+    },
+    {
+        "title": "Senior Year",
+        "surface": "In my senior year, I did something wrong, and I was happy it went unnoticed. Years later, I shed tears because of it.",
+        "bottom": "In my senior year, my family was financially struggling, and I didn’t have enough money for tuition. I used fake money to pay the fees, and the teacher didn’t seem to notice. I felt lucky to continue my studies. Years later, at a reunion, I learned from my classmates that the teacher had actually noticed but, to help me, he used his own salary to replace the fake money and pay for my tuition. When I met the teacher again, I confessed and apologized. The teacher said, 'After all these years, you can still apologize for this. Letting you continue your education was the best decision I ever made as a teacher.'",
+        "tips": [
+            "The wrong thing was related to tuition",
+            "The mistake was due to financial difficulties",
+            "I thought the teacher hadn't noticed the mistake",
+            "The teacher helped me by replacing the money",
+            "Years later, I understood the teacher's intention"
+        ]
+    },
+    {
+        "title": "Going Out",
+        "surface": "A and B went out together, and soon after, they were arrested. Why?",
+        "bottom": "A and B are prisoners. One day, they escaped from prison, but not long after, they were caught and brought back.",
+        "tips": [
+            "A and B are actually prisoners",
+            "Their 'going out' was actually an escape from prison",
+            "They were caught as soon as they escaped",
+            "They were not truly free",
+            "The starting point of their 'going out' was prison"
+        ]
+    },
+    {
+        "title": "Handling Procedures",
+        "surface": "Xiao Ming went to the counter to handle some procedures, and Xiao Mei waited beside him. Xiao Mei suddenly left his side and walked to the other end of the hallway. Later, when Xiao Ming finished his procedure, he saw Xiao Mei at the other end of the hallway and ran away.",
+        "bottom": "Xiao Ming and Xiao Mei met at a bar and chatted happily. They decided to go to a hotel. Xiao Mei suddenly needed to go to the bathroom, so she left to go to the restroom at the other end of the hallway. When Xiao Ming finished the procedure and went to find her, he saw her coming out of the men's restroom and ran away in panic.",
+        "tips": [
+            "They met at a bar and decided to go to a hotel",
+            "Xiao Ming handled procedures at the counter",
+            "Xiao Mei left to go to the bathroom",
+            "Xiao Ming saw Xiao Mei come out of the men's restroom",
+            "Xiao Ming ran away in panic after seeing this"
+        ]
+    },
+    {
+        "title": "Auction",
+        "surface": "Sam is a kind-hearted rich man. One day, he bid high at an auction for something he didn’t like. Six months later, he noticed that everyone except him at the auction had died. He felt proud of his actions.",
+        "bottom": "He was invited to an auction disguised as a charity event, but it was actually an auction for 'female slaves' organized by a criminal group. These slaves were female assassins, whose mission was to enter wealthy homes, rob them, and kill the owners. To protect these women from further exploitation, Sam bid high on one of the slaves and took her home. Sam treated her like a daughter, and the assassin was moved and quietly left his house. The other wealthy men were not so fortunate and were killed, their wealth stolen.",
+        "tips": [
+            "The auction was not charity-based",
+            "The item bought was a human being",
+            "The item was inherently dangerous",
+            "The rich man’s kindness saved his own life",
+            "The other wealthy men were killed"
+        ]
+    },
+    {
+        "title": "Thief",
+        "surface": "A father and daughter came to a convenience store to buy something. The daughter stole something, and the clerk called the police.",
+        "bottom": "The man was a human trafficker, pretending to be the child's father. The child stole from the store to send a signal for help. The clerk noticed the unusual behavior and called the police.",
+        "tips": [
+            "The man with the child was actually a trafficker",
+            "The little girl stole intentionally",
+            "The theft was a cry for help",
+            "The clerk noticed the anomaly and called the police",
+            "The police saved the kidnapped child"
+        ]
+    },
+    {
+        "title": "Brownish-Grey 'Old' Umbrella",
+        "surface": "On a rainy day, Xiao A walked past a house and saw an old umbrella. She borrowed it. Later, the house owner was arrested, and the police questioned Xiao A why she didn’t report it, but Xiao A didn’t notice anything unusual.",
+        "bottom": "Xiao A has red-green color blindness (which makes red and green appear as dull brownish-grey). The umbrella was stained with blood and appeared red, but Xiao A, due to her color blindness, didn’t notice it. She asked, 'Can you lend me this brownish-grey umbrella?' The owner knew she hadn’t noticed the blood, so they let her go. Otherwise, she could have been in danger.",
+        "tips": [
+            "Xiao A has a special visual impairment",
+            "The umbrella was not brownish-grey",
+            "The umbrella was stained with red liquid",
+            "The owner had just committed a crime",
+            "She didn’t notice the danger due to her color blindness"
+        ]
+    },
+    {
+        "title": "'Don’t Save Him'",
+        "surface": "When we arrived at the house where the food poisoning occurred, everyone was unable to stand and had no color in their faces. Just as we were about to take the oldest person to the ambulance, they all shouted in unison: 'Don’t save him!'",
+        "bottom": "The elderly man had already passed away due to illness. His family gathered to prepare for his funeral, but unfortunately, they all suffered from food poisoning.",
+        "tips": [
+            "The gathering had a special reason",
+            "The elderly man was in a different state from others",
+            "The elderly man no longer needed medical help",
+            "The food poisoning was related to mourning",
+            "The shouting was because the elderly man had passed away"
+        ]
+    },
+    {
+        "title": "The Fifth Person",
+        "surface": "On a country road, five men walked together. It started to rain, and four of them quickened their pace. However, the fifth man wasn’t in a hurry. In the end, all five reached the destination at the same time. The four men who hurried got soaked, but the fifth man remained dry.",
+        "bottom": "The four men were carrying a coffin. The fifth person was lying in the coffin, already dead.",
+        "tips": [
+            "The four men were carrying a coffin",
+            "The fifth person was lying in the coffin",
+            "He didn’t need to hurry because he was already dead",
+            "The four men were soaked while carrying the coffin",
+            "The coffin protected the fifth person from getting wet"
+        ]
+    },
+    {
+        "title": "My Gratitude",
+        "surface": "I slowly closed my eyes. This is how I will repay you...",
+        "bottom": "I am a little pig on a farm. Half a year ago, the farm caught fire, and firefighters arrived just in time to rescue me and my brothers. Now, as summer comes, the farm is planning to slaughter us to make sausages as a thank-you gift for the firefighters. I am repaying them with my life.",
+        "tips": [
+            "The narrator is actually a little pig",
+            "The firefighters saved the pigs half a year ago",
+            "The farm owner plans to slaughter the pigs for sausages",
+            "The little pig repays the rescuers with its life",
+            "The little pig’s life ends as it repays its saviors"
+        ]
+    },
+    {
+        "title": "The Lying on the Tracks Mistake",
+        "surface": "A person was found lying on the ground on a piece of ladder, and after being woken up, he cried sadly. Why?",
+        "bottom": "This person had drunk a lot of alcohol and wanted to lie on the railroad tracks to commit suicide. However, in his drunken state, he mistook a ladder for the tracks.",
+        "tips": [
+            "This person originally wanted to commit suicide",
+            "He planned to lie on the railroad tracks to die",
+            "He had drunk a lot of alcohol",
+            "He mistook a ladder for the tracks",
+            "He cried because his suicide attempt failed"
+        ]
+    },
+    {
+        "title": "Little Girl",
+        "surface": "One day, the little girl asked her mother, \"Who is that uncle?\" A week later, the little girl died, and both her mother and the uncle were very sad.",
+        "bottom": "The 'little girl' was actually an elderly grandmother suffering from Alzheimer's disease. She mistook her daughter for her mother and her husband for an uncle. Ultimately, the grandmother died naturally. Her 'mother' (daughter) and 'uncle' (husband) were both very sad.",
+        "tips": [
+            "The little girl is actually an elderly person with dementia",
+            "The daughter is mistaken for the mother",
+            "The husband is mistaken for an uncle",
+            "The death was due to natural causes",
+            "The sadness stems from the loss of a loved one"
+        ]
+    },
+    {
+        "title": "Date",
+        "surface": "I've been confined for over three months. Today, light shone in. No, it's not time yet!",
+        "bottom": "I am a fetus. After three months, my mother was found to be pregnant. Instead of being happy, she became extremely anxious because I was the product of my parents' impulsive actions. Today was the day I was taken out. The operating room lights shone in, and I left this world.",
+        "tips": [
+            "My true identity is a fetus",
+            "\"Confined\" refers to being in the mother's womb",
+            "\"Light\" is the operating room light for an abortion",
+            "\"Not time yet\" refers to not being due for birth",
+            "The cause of death was an induced abortion"
+        ]
+    },
+    {
+        "title": "Boyfriend",
+        "surface": "In the beginning, my boyfriend loved me very much, but later he started bullying me, always snatching the best food for himself. In the end, he died.",
+        "bottom": "We were both pigs. My boyfriend used to always let me have the best food, but then he changed, always snatching the best food for himself, even pushing and nudging me hard to get food. I thought he no longer loved me, until one day, our owner took him away with a knife. Hearing my boyfriend's agonizing squeals, I finally understood: he had heard that the owner was going to kill one of us, so he decided to fatten himself up to save my life. I'm sorry, I misunderstood you...",
+        "tips": [
+            "Narrator and boyfriend are pigs",
+            "Food snatching was intentional fattening",
+            "Fattening purpose was to be chosen for slaughter to protect girlfriend",
+            "Boyfriend sacrificed himself for love",
+            "Self-sacrifice was misunderstood as selfishness"
+        ]
+    },
+    {
+        "title": "Dad",
+        "surface": "Dad was working overtime, and I was home alone... but then he suddenly came home and beat me up.",
+        "bottom": "To buy my girlfriend a gift, whenever my dad went out for overtime, I would livestream dressed as a woman when I was home alone. During that particular livestream, I accidentally knocked over the backdrop behind me, and he probably recognized me. As soon as I ended the stream, he beat me up without a word. Afterward, I found out that the top donor who always interacted with me and showered me with gifts, 'Daddy,' was actually my own dad.",
+        "tips": [
+            "Overtime was actually watching son's livestream",
+            "Son livestreamed in drag to earn money",
+            "Livestream accident revealed identity",
+            "Top donor was biological father",
+            "Father resorted to violence after discovering the truth"
+        ]
+    },
+    {
+        "title": "Forever Together",
+        "surface": "My mom loved me very much, but ever since a heavy rain, she locked me in a dark little room. When I saw her again, her appearance had changed drastically. I knew we would be together forever!",
+        "bottom": "I used to be a delicate Barbie doll. My mom always pampered me, taking me everywhere she went. Until one day after a heavy rain, I was locked in a damp, dark room, day after day, year after year. One day, I heard sad crying outside, and I was taken out, finding myself lying next to a woman I no longer recognized. Through others' explanations, I learned it was my mom, who once loved me deeply. Her body had grown cold, and as I lay beside her, I thought silently, finally, we can be together forever.",
+        "tips": [
+            "I am a Barbie doll",
+            "Heavy rain is a turning point in the relationship",
+            "Confinement means the doll was put away",
+            "Mother's change refers to her death",
+            "Reunion happens after the owner's death",
+            "Forever together implies accompanying the deceased"
+        ]
+    },
+    {
+        "title": "Live",
+        "surface": "I died on the first basement floor, but I live on the third floor.",
+        "bottom": "I was a teacher. During an earthquake, I protected three students and was buried on the first basement floor of the school. I died, but fortunately, the three students survived. My portrait has been hanging on the third floor of the school; I live on the third floor of the school, and in the hearts of the entire school and nation.",
+        "tips": [
+            "I am a teacher who sacrificed myself in an earthquake",
+            "The first basement floor is where I died saving students",
+            "The third floor refers to where my portrait is hung/memorialized",
+            "\"Live\" signifies spiritual immortality/being remembered",
+            "Physical death but spiritual eternal life"
+        ]
+    },
+    {
+        "title": "Dad (Different Story)",
+        "surface": "The little girl didn't call him Dad, and the man was angry. The little girl called him Dad, and the man was scared.",
+        "bottom": "The man couldn't have children but always fantasized about being a father. On Father's Day, overwhelmed by the urge to be a dad, the man called a lone little girl into an alley and forced her to call him Dad. The little girl refused, making him angry. However, the man soon discovered that the little girl was actually mute, and he had a plan: he would simply kidnap her and make her his daughter. Yet, on his way home while holding the little girl captive, she shouted \"Dad\" to her biological father who was looking for her. Only then did the man realize the girl had been faking her muteness to deceive him, and his kidnapping and attempt to force her to be his daughter were exposed. Legal repercussions awaited him.",
+        "tips": [
+            "The kidnapper desired fatherhood due to infertility",
+            "The girl's initial silence was not muteness",
+            "The girl's refusal to say \"Dad\" was a rejection of the kidnapper",
+            "The girl's shout was directed at her biological father",
+            "The man's fear stemmed from the exposure of his kidnapping"
+        ]
+    },
+    {
+        "title": "Torn Pants",
+        "surface": "My pants were torn, and I knew I was going to die soon.",
+        "bottom": "I am an astronaut. Today, I was performing a mission in space when I suddenly discovered that the pants of my spacesuit were torn. I was exposed to the vacuum and lack of oxygen in space and died.",
+        "tips": [
+            "My identity is an astronaut",
+            "The event takes place in space",
+            "\"Pants\" refers to the spacesuit",
+            "Spacesuit damage led to fatal environmental exposure",
+            "Death caused by vacuum environment"
+        ]
+    },
+    {
+        "title": "Novice",
+        "surface": "\"Insert it there, where are you inserting it? Why are you inserting it here? Wrong, wrong!\"",
+        "bottom": "A female student was learning to drive. The instructor said, \"Have you adjusted your seat?\" Then, learning began. The instructor said, \"Fasten your seatbelt.\" The student tried to insert the seatbelt buckle into the instructor's seat. The instructor then said, \"Wrong, wrong!\"",
+        "tips": [
+            "Ambiguous dialogue is actually driving instruction",
+            "The 'insertion' action refers to fastening a seatbelt",
+            "Incorrect insertion was into the instructor's buckle",
+            "Incorrect instruction came from the instructor",
+            "Novice student's operational error"
+        ]
+    },
+    {
+        "title": "Birthday",
+        "surface": "Today is my 15th birthday. Tomorrow is my 13th birthday. The day after tomorrow is my 10th birthday. How can I have a birthday every day?",
+        "bottom": "I am a staff member at a nursing home. We have many elderly residents suffering from Alzheimer's disease. Their children rarely visit them due to busy work schedules. Due to their longing and illness, they often mistake me for their daughter and pull me into celebrating their birthdays. This has led to me, almost forty years old, celebrating teenage birthdays for three consecutive days.",
+        "tips": [
+            "I am a nursing home caregiver",
+            "Elderly residents have Alzheimer's disease",
+            "Residents mistake the caregiver for their child",
+            "Different ages correspond to different residents",
+            "Consecutive birthdays are due to multiple residents celebrating in turn"
+        ]
+    },
+    {
+        "title": "Proof of Guilt",
+        "surface": "\"I didn't kill anyone, I don't know how to use a shotgun!\" \"Unfortunately, that might just prove you are the killer.\"",
+        "bottom": "The victim's cause of death was brain contusion caused by being struck in the back of the head with a gunstock, not from being shot with a shotgun. Because this person didn't know how to use a gun, they could only use the hunting rifle like a club. A regular shotgun is generally made of steel and walnut, weighing at least three kilograms or more. However, it doesn't rule out the possibility that someone who *does* know how to use a gun might adopt this method to avoid gunshots if they didn't bring a silencer.",
+        "tips": [
+            "Cause of death was blunt force trauma, not gunshot",
+            "Shotgun stock was used as a club",
+            "Killer lacked experience in using firearms",
+            "Claiming inability to use a gun becomes a suspicious point"
+        ]
+    },
+    {
+        "title": "Hidden",
+        "surface": "I was well hidden. I was caught, brutally dismembered, fragmented. I was indeed well hidden.",
+        "bottom": "I am ginger hidden in stewed meat. As is well known, ginger is a master of disguise in the culinary world. I was picked up by a diner, mistaken for meat, and put into their mouth. Indeed, being chewed into fragments is proof of ginger's excellent disguise.",
+        "tips": [
+            "My true identity is a piece of ginger in stewed meat",
+            "\"Hidden\" refers to disguising my appearance as meat",
+            "\"Caught and dismembered\" refers to being mistakenly eaten and chewed by a diner",
+            "Being mistakenly eaten is proof of successful disguise",
+            "Successful disguise proves I was well hidden"
+        ]
+    },
+    {
+        "title": "Streetlight Went Out",
+        "surface": "I walked halfway, and the streetlight went out.",
+        "bottom": "I am the hour hand. Walking half a circle means it's six o'clock. It's morning, so the streetlights turn off.",
+        "tips": [
+            "I am the hour hand",
+            "\"Walking\" refers to regular movement",
+            "\"Halfway\" relates to a time cycle",
+            "Streetlight turning off is an automated result",
+            "The event occurs in the early morning"
+        ]
+    },
+    {
+        "title": "No Good Gift",
+        "surface": "A minister presented a gift to the emperor, but the emperor suffered mental trauma.",
+        "bottom": "The minister gave the emperor a deer, but all the other ministers claimed it was a horse. The emperor realized his power had been usurped, causing him mental trauma.",
+        "tips": [
+            "The gift was a test of 'pointing to a deer as a horse' (a metaphor for deliberate misrepresentation)",
+            "All officials conspired to distort the truth",
+            "The emperor realized his power was undermined",
+            "Loss of power led to mental trauma",
+            "The presentation of the gift was a political power play"
+        ]
+    },
+    {
+        "title": "Couple on Isolated Boat",
+        "surface": "A couple was shipwrecked. The man abandoned the woman and swam away. Ultimately, the woman was rescued, but the man died.",
+        "bottom": "The couple encountered a shark. The man deliberately cut his own hand with a knife and used his blood to attract the shark away, creating an escape opportunity for the woman.",
+        "tips": [
+            "Encountered a shark attack",
+            "The man intentionally self-harmed to use his blood to lure the shark away",
+            "The man's actions were to save the woman",
+            "The man's death was related to luring the shark away"
+        ]
+    },
+    {
+        "title": "Wheat Field Strange Heart",
+        "surface": "A farmer was approaching the center of a wheat field. He knew he was doomed.",
+        "bottom": "The farmer was a skydiving enthusiast. One day, he went skydiving as usual, but because he hadn't checked beforehand, his parachute didn't deploy properly, causing him to descend at an extremely high speed. The last sight he saw was a wheat field.",
+        "tips": [
+            "The farmer is a skydiving enthusiast",
+            "The livestreamer is actually the brother (This tip seems to be from a different story and is irrelevant here.)",
+            "Approaching the wheat field means falling from a great height",
+            "The premonition of death stems from a failed parachute deployment during skydiving",
+            "The wheat field is merely the landing spot"
+        ]
+    },
+    {
+        "title": "Dictation",
+        "surface": "The first six were correct, but why was the seventh wrong?",
+        "bottom": "In Chinese class, the teacher asked everyone to dictate the Chinese characters for numbers one to seven. A foreign student couldn't dictate them, so he looked at the calendar next to him and copied 'Monday,' 'Tuesday,' and so on. However, he didn't realize that the seventh day isn't called '星期七' (xing qi qi - 'week seven'), but '星期日' (xing qi ri - 'Sunday')!",
+        "tips": [
+            "The dictation content was Chinese numbers one to seven",
+            "The person who made the mistake was a foreign student",
+            "The student referred to a calendar for copying",
+            "The copied content was the Chinese expressions for days of the week",
+            "The error stemmed from the special name for the seventh day (Sunday)"
+        ]
+    },
+    {
+        "title": "Sea Turtle Soup",
+        "surface": "A person went to a restaurant, ordered a bowl of sea turtle soup, and left the restaurant in a hurry without paying.",
+        "bottom": "This person is a secret agent. His contact's cover identity is the owner and chef of a restaurant. The code to meet is to order sea turtle soup (which is actually chicken soup). On this day, the soup he drank tasted completely different from before, indicating it wasn't made by the same person. Yet, they could serve a bowl of 'sea turtle soup,' meaning his contact had been exposed, and the place was now controlled by enemies. He had no choice but to escape when no one was looking.",
+        "tips": [
+            "The dish name 'Sea Turtle Soup' has a special meaning and does not refer to actual sea turtle soup.",
+            "The taste or preparation method of this soup was not as expected, and this point is very important.",
+            "This person's identity or profession is special, giving his actions (ordering a specific dish, leaving without paying) a specific purpose.",
+            "The reason he left was not because he forgot to pay or had no money, but because he sensed danger.",
+            "The restaurant's environment or serving staff might have changed, and this soup was a signal of that change."
+        ]
+    },
+    {
+        "title": "Handgun",
+        "surface": "He returned home and saw a woman holding a handgun, saying she was going to kill him.",
+        "bottom": "He is a drama critic who once reviewed a male actor playing a murderer as having poor acting skills. This actor then disguised himself as a woman wanting to kill him and hid in his house. If he didn't realize the actor didn't actually want to kill him, it would prove the actor's acting skills.",
+        "tips": [
+            "The gun wielder's threat was to achieve another purpose, not genuinely to kill.",
+            "The gun wielder's female appearance was a disguise.",
+            "The man's past professional actions were the direct cause of this incident.",
+            "This scene was a carefully arranged performance, not a real attack.",
+            "The gun wielder's purpose was to prove a certain professional skill to the man."
+        ]
+    },
+    {
+        "title": "Too Late",
+        "surface": "I started my homework on the last day of summer vacation. When I opened the first page, I realized it was too late.",
+        "bottom": "Opening the first page, I saw a note with the handwriting of my crush: 'I'm transferring schools, but I have something very important to tell you... Let's agree to meet.'",
+        "tips": [
+            "The true meaning of 'too late' does not refer to the homework itself.",
+            "A key piece of information was hidden in the notebook, undiscovered in time.",
+            "The sender of this information (the crush) is about to leave permanently.",
+            "The information contained a time-sensitive appointment.",
+            "By the time the information was discovered, the opportunity for the appointment had already passed."
+        ]
+    },
+    {
+        "title": "Download",
+        "surface": "One minute, one day, one week, one month, one year... He completely broke down.",
+        "bottom": "He was downloading a very large game. But when the game was almost finished downloading, his internet suddenly became slow. He watched helplessly as the estimated download completion time gradually increased from one minute to one year, and he broke down.",
+        "tips": [
+            "The increasing time is not actual elapsed time, but the estimated completion time of a process.",
+            "The cause of the breakdown is related to network connection or data transmission issues.",
+            "This process encountered a sudden problem when it was about to complete (expected in one minute).",
+            "His emotional breakdown stemmed from the failure of a technical activity.",
+            "The object he was waiting for was some form of digital content (e.g., a file, a game)."
+        ]
+    },
+    {
+        "title": "Valentine's Day",
+        "surface": "On Valentine's Day, I received flowers from him, who was married, and cried my eyes out.",
+        "bottom": "Since Grandma passed away last year, Grandpa has developed Alzheimer's disease and forgotten many things. Today is Valentine's Day. Grandpa quietly walked up to me, handed me a bouquet of roses, called out Grandma's name, and shyly spoke the old-fashioned sweet nothings he used to say to Grandma every Valentine's Day. I teared up, moved by their love and also missing my grandma.",
+        "tips": [
+            "The flower giver mistook the recipient of the flowers.",
+            "The flower giver's behavior was influenced by memory or cognitive impairment.",
+            "This bouquet was originally intended for someone who is no longer alive.",
+            "There is a family relationship between the flower giver and the narrator, not implying an extramarital affair.",
+            "The narrator's tears stemmed from missing the deceased relative and the complex emotions of the current situation."
+        ]
+    },
+    {
+        "title": "Silent",
+        "surface": "The person I like silently saved a life.",
+        "bottom": "The person I like is a singer. He designed a silent part in his new song. I was playing the new song while passing through a rarely traveled road. Because of this silent part, I heard someone on the roadside calling for help in a low voice, and I saved his life.",
+        "tips": [
+            "The act of 'saving a life' was not intentional on the part of 'the person I like'.",
+            "'Silent' does not refer to the person not making a sound, but rather to a silent passage in their work.",
+            "The profession or creative output of 'the person I like' is key to understanding the event.",
+            "The life was saved thanks to the temporary disappearance of some interference (sound).",
+            "It was the narrator who actually heard the cry for help and completed the rescue, not 'the person I like'."
+        ]
+    },
+    {
+        "title": "Fortune Teller",
+        "surface": "'I don't want the accurate one, I want the inaccurate one,' I thought.",
+        "bottom": "I am the housekeeper of a wealthy household. I embezzled the family heirloom. The wealthy master couldn't find it anywhere, so he asked me to find a fortune teller to divine where the heirloom went. I was afraid it would really be divined, so I decided to find an inaccurate fortune teller.",
+        "tips": [
+            "The narrator is seeking the failure, not the success, of a specific service or ability.",
+            "This service is related to finding lost items or revealing the truth.",
+            "The narrator themself is responsible for the missing item that needs to be found.",
+            "The effectiveness of the sought service poses a threat to the narrator.",
+            "Choosing the 'inaccurate' one is to proactively avoid an unfavorable outcome, not a random choice."
+        ]
+    },
+    {
+        "title": "Four Seasons",
+        "surface": "I died in winter, I came alive in spring. I slept in summer, I flew in autumn.",
+        "bottom": "I was killed in winter and buried in the earth. After spring, the ice melted, and maggots grew on my body. In summer, the maggots pupated, and in autumn, they turned into flies and flew away.",
+        "tips": [
+            "The 'I' in the narrative does not refer to the continuous existence of the same living being or consciousness.",
+            "'Came alive,' 'slept,' and 'flew' describe subsequent natural phenomena occurring on the deceased's remains.",
+            "This process is closely related to the life cycle of insects.",
+            "The initial event involved an unnatural death and burial.",
+            "The changes of the four seasons correspond to different stages of decomposition and transformation."
+        ]
+    },
+    {
+        "title": "Profession",
+        "surface": "Ever since my sister took up this profession, I've been devastated.",
+        "bottom": "Ever since my sister became a teacher, the birthday gifts she gives me every year have become last year's set of final exam papers.",
+        "tips": [
+            "The narrator's devastation is directly related to their sister's career choice.",
+            "The trigger for the devastation is the specific items related to her profession that the sister gives.",
+            "These items are related to education, learning, or assessment.",
+            "These items are considered inappropriate or unpleasant gifts.",
+            "The sister's profession has influenced her way of expressing care (such as gift-giving), thereby leading to the narrator's negative reaction."
+        ]
+    },
+    {
+        "title": "Coming Home After Drinking",
+        "surface": "A man was walking home after drinking. As he walked down the street, all the streetlights were out, and there was no moonlight, and he was wearing all black. Suddenly, a car without its headlights on came speeding towards him, about to hit him. Fortunately, the driver saw the man and slammed on the brakes, saving his life.",
+        "bottom": "It was daytime. The man had been drinking all night and was only heading home the next morning.",
+        "tips": [
+            "The description 'all streetlights were out' and 'no moonlight' does not mean the environment was dark.",
+            "The driver being able to see the pedestrian is unrelated to the light source information in the description.",
+            "The state of the streetlights and moon aligns with the actual time.",
+            "The actual environmental visibility at the time was very high.",
+            "The time the man was returning home is key to understanding the entire scene."
+        ]
+    },
+    {
+        "title": "Crying",
+        "surface": "One cut, two cuts, three cuts... The woman I hadn't known for long was chopping me, yet she was also crying.",
+        "bottom": "I am an onion. After the woman bought me from the supermarket, she cried while cutting me.",
+        "tips": [
+            "The narrator ('I') is not a human or animal.",
+            "The action of 'chopping' is actually food preparation.",
+            "The woman's crying is a physiological natural reaction, not emotionally driven.",
+            "The narrator's an entity possesses a certain characteristic that can trigger this physiological reaction.",
+            "The relationship between the woman and 'I' is that of a user and an object."
+        ]
+    },
+    {
+        "title": "Dreaming",
+        "surface": "An employee said to his boss: 'You absolutely must not take a plane today. Last night, I dreamed that if you took a plane, it would crash, and you would die.' Upon hearing this, the boss fired him.",
+        "bottom": "Because this employee worked the night shift at the factory, when he told his boss he dreamed last night that the boss would die if he took a plane, the boss knew immediately that the employee was not serious about his work and was sleeping during his shift, so he fired him.",
+        "tips": [
+            "The reason for dismissal is directly related to the employee's work performance, not the dream itself.",
+            "The employee's working hours or job responsibilities are key to solving the puzzle.",
+            "The employee's act of recounting the dream inadvertently exposed his dereliction of duty.",
+            "The boss's decision to fire him was based on logical judgment, not superstition.",
+            "The timing of the dream (in conjunction with his work responsibilities) is the core evidence leading to the dismissal."
+        ]
+    },
+    {
+        "title": "Exam",
+        "surface": "That voice appeared again... I desperately held my head, waiting for that moment to arrive.",
+        "bottom": "During the exam, a recently popular brainwashing song kept replaying in my mind, causing me to be unable to do any questions. The exam was about to end, and I held my head in utter despair.",
+        "tips": [
+            "The source of the voice is internal (e.g., replaying in the mind), not from the external environment.",
+            "'That moment' refers to the end of an important time limit (e.g., the end of an exam).",
+            "The feeling of despair stems from the inability to concentrate due to the voice, which in turn affects a crucial task.",
+            "The voice itself is highly repetitive and distracting (e.g., a brainwashing melody).",
+            "The event takes place in a setting that requires a high degree of concentration."
+        ]
+    },
+    {
+        "title": "Beasts of Burden",
+        "surface": "It was the period of the American Westward Expansion. A cowboy rode his little white horse to hunt wild buffalo. He found that the buffalo always saw his white horse from afar, so he came up with an idea: paint the horse brown. This method worked, but he was even less successful at hunting buffalo.",
+        "bottom": "The horse was indeed harder to see, but the smell of the paint made it easier to be smelled.",
+        "tips": [
+            "The disguise successfully reduced the horse's visual visibility.",
+            "Solving the visual problem introduced a new sensory problem.",
+            "The smell of the paint is key.",
+            "Buffalo have a very keen sense of smell.",
+            "The horse was more easily detected by the buffalo through smell."
+        ]
+    },
+    {
+        "title": "Husband Not Home",
+        "surface": "'Is your husband not home?' Red was everywhere. My husband came back, he was finished.",
+        "bottom": "The repairman came to my house to fix the electricity meter. When he was checking the meter box, his eyes looked a bit strange.\n'Is your husband not home?' After getting a negative answer, he said he wanted to show me something good.\nThe meter box was completely opened, and many red banknotes fell out, covering my face. At this moment, my husband came back. How should I punish him?",
+        "tips": [
+            "The overwhelming 'red' is not a symbol of danger or blood, but refers to some hidden item.",
+            "Asking 'Is your husband not home?' was not out of malice, but to create an opportunity to reveal a secret.",
+            "The hiding place of the 'red' items (the meter box) suggests an attempt by its owner to deliberately conceal them.",
+            "The husband's return coincided with the critical moment his secret was accidentally discovered.",
+            "The core of the event concerns the discovery of something (most likely money) that the husband had hidden privately."
+        ]
+    },
+    {
+        "title": "Lucky Prisoner",
+        "surface": "A man was arrested. He was imprisoned for longer than his sentenced term, even lacking food and drink. But after being released, the man was very glad he had been imprisoned.",
+        "bottom": "A local volcano erupted, completely destroying the city. About thirty thousand other people in the city died as a result. The man, located in a sturdy underground prison, was discovered and rescued during post-disaster reconstruction.",
+        "tips": [
+            "The place where the man was imprisoned was very special and sturdy.",
+            "While he was imprisoned, a devastating event occurred outside the prison.",
+            "The external event led to the extension of his imprisonment.",
+            "His survival was directly related to his state of imprisonment.",
+            "The fate of others in the city was completely different from the man's."
+        ]
+    },
+    {
+        "title": "Taking out the Trash",
+        "surface": "Mom is going to the hospital tomorrow, and I'm very scared. So I rush to take out the trash every day.",
+        "bottom": "I once asked Mom where I came from. Mom told me I was picked up from a trash can, and I believed it. That day, Mom told me I would soon have a younger sibling. I was very worried that Mom would ignore me once the new sibling arrived. To prevent Mom from picking up a new sibling from the trash can, I rushed to take out the trash every day.",
+        "tips": [
+            "The narrator's fear does not stem from concern about the hospital itself.",
+            "The act of taking out the trash is an attempt to prevent something from happening.",
+            "The narrator has a very literal and incorrect understanding of human origins.",
+            "Mom going to the hospital is related to the arrival of a new life, but this is misunderstood by the narrator.",
+            "The narrator's behavior stems from insecurity about losing maternal attention and naive logic."
+        ]
+    },
+    {
+        "title": "He",
+        "surface": "Great, he's dead\nOh no, he's not dead\nDamn it, he's dead",
+        "bottom": "He and I were generals of two opposing countries, deadlocked on the battlefield for many days. One day, I heard he was dead and happily ordered my troops to advance. Unexpectedly, I saw him again on the battlefield. I thought I had fallen into a trap and ordered a retreat. Later, I found out it was just his statue. I fell for his posthumous trick and missed the best opportunity to deploy my troops.",
+        "tips": [
+            "A visual misdirection was the key reason for the misjudgment (thinking the opponent wasn't dead).",
+            "The opponent used a posthumous stratagem.",
+            "The event takes place in the context of military confrontation or intense competition.",
+            "The narrator's final regret is related to missing a strategic opportunity, not just the opponent's life or death.",
+            "A non-living object was used as a key deception tool, creating the illusion that the opponent was still alive."
+        ]
+    }
+]
